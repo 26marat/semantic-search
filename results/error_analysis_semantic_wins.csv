@@ -1,0 +1,6 @@
+query_id,query_title,label,bm25_rank,bm25_top1_id,semantic_rank,semantic_top1_id,bm25_rank_filled,semantic_rank_filled,gap,direction
+2512.18337v2,Towards Efficient Agents: A Co-Design of Inference Architecture and System,cl_nlp,,2512.18126v1,1.0,2512.18337v2,21.0,1.0,-20.0,semantic_wins
+2509.03438v1,Non-Linear Counterfactual Aggregate Optimization,stat_ml,,2601.00885v1,1.0,2509.03438v1,21.0,1.0,-20.0,semantic_wins
+2511.05885v3,An item is worth one token in Multimodal Large Language Models-based Sequential Recommendation,ir_retrieval,,2510.22049v3,3.0,2512.20916v1,21.0,3.0,-18.0,semantic_wins
+2512.18832v2,From Word to World: Can Large Language Models be Implicit Text-based World Models?,cl_nlp,17.0,2512.18865v1,1.0,2512.18832v2,17.0,1.0,-16.0,semantic_wins
+2512.09458v1,Architectures for Building Agentic AI,ai_general,,2512.04822v1,6.0,2512.04469v1,21.0,6.0,-15.0,semantic_wins

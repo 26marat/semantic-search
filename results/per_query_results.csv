@@ -1,0 +1,1237 @@
+system,query_id,query_title,label,rank,top1_id,coherence_at_10
+Random,2512.23903v2,Scaling Remote Sensing Foundation Models: Data Domain Tradeoffs at the Peta-Scale,cv_vision,,2511.03298v2,0.2
+Random,2512.17851v2,InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models,cv_vision,,2512.06732v1,0.2
+Random,2512.22374v1,Self-Evaluation Unlocks Any-Step Text-to-Image Generation,cv_vision,,2512.19605v1,0.0
+Random,2511.23205v1,A PLS-Integrated LASSO Method with Application in Index Tracking,stat_ml,,2512.13059v1,0.2
+Random,2512.17907v1,Dexterous World Models,cv_vision,,2512.15430v1,0.0
+Random,2512.22203v1,TCFormer: A 5M-Parameter Transformer with Density-Guided Aggregation for Weakly-Supervised Crowd Counting,cv_vision,,2512.18930v1,0.2
+Random,2512.23131v1,SE-MLP Model for Predicting Prior Acceleration Features in Penetration Signals,lg_ml,,2510.12416v7,0.0
+Random,2512.23635v1,Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception,cv_vision,,2510.11546v2,0.4
+Random,2512.19605v1,KerJEPA: Kernel Discrepancies for Euclidean Self-Supervised Learning,lg_ml,,2601.05268v1,0.1
+Random,2512.16918v3,AdaTooler-V: Adaptive Tool-Use for Images and Videos,cv_vision,,2511.03351v2,0.1
+Random,2510.16803v1,An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision,ir_retrieval,,2512.04518v1,0.0
+Random,2512.24000v2,WISE: Web Information Satire and Fakeness Evaluation,cl_nlp,,2512.18792v1,0.2
+Random,2509.20989v2,Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems,ir_retrieval,,2512.23988v1,0.2
+Random,2512.17675v1,An Empirical Study of Sampling Hyperparameters in Diffusion-Based Super-Resolution,cv_vision,,2512.13714v1,0.2
+Random,2602.23371v1,Domain-Partitioned Hybrid RAG for Legal Reasoning: Toward Modular and Explainable Legal AI for India,ir_retrieval,,2512.18605v1,0.1
+Random,2509.22919v1,Label-Guided Imputation via Forest-Based Proximities for Improved Time Series Classification,stat_ml,16.0,2510.21726v1,0.1
+Random,2512.10304v1,Trustworthy Orchestration Artificial Intelligence by the Ten Criteria with Control-Plane Governance,ai_general,,2511.20558v2,0.1
+Random,2512.20135v2,MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization,ai_general,15.0,2512.16770v1,0.1
+Random,2510.01944v1,Uniform-in-time convergence bounds for Persistent Contrastive Divergence Algorithms,stat_ml,,2512.05100v1,0.3
+Random,2512.19510v1,Toward Scalable and Valid Conditional Independence Testing with Spectral Representations,lg_ml,,2512.19117v2,0.3
+Random,2512.17612v1,Self-Supervised Weighted Image Guided Quantitative MRI Super-Resolution,cv_vision,,2601.00116v1,0.0
+Random,2511.03000v1,Unifying Information-Theoretic and Pair-Counting Clustering Similarity,stat_ml,,2509.19276v1,0.5
+Random,2512.14766v1,GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge,ai_general,,2509.12666v3,0.1
+Random,2601.00879v1,VL-OrdinalFormer: Vision Language Guided Ordinal Transformers for Interpretable Knee Osteoarthritis Grading,cv_vision,,2509.20928v3,0.2
+Random,2512.13655v2,Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation,cl_nlp,,2512.12477v1,0.1
+Random,2512.23971v1,CEC-Zero: Zero-Supervision Character Error Correction with Self-Generated Rewards,cl_nlp,,2511.07295v2,0.1
+Random,2512.24331v1,Spatial-aware Vision Language Model for Autonomous Driving,cv_vision,,2512.11902v1,0.1
+Random,2512.23545v1,PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis,cv_vision,,2512.22744v1,0.1
+Random,2512.02474v2,Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation,ir_retrieval,19.0,2512.18177v1,0.1
+Random,2512.17331v1,SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation,cv_vision,,2512.17820v2,0.2
+Random,2512.16917v3,Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning,ai_general,,2512.20113v3,0.1
+Random,2511.14710v1,Towards a Unified Analysis of Neural Networks in Nonparametric Instrumental Variable Regression: Optimization and Generalization,stat_ml,,2511.20888v2,0.2
+Random,2601.05269v2,Studying Illustrations in Manuscripts: An Efficient Deep-Learning Approach,ir_retrieval,,2510.01291v1,0.1
+Random,2509.05564v1,Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models,ir_retrieval,,2512.17416v1,0.2
+Random,2512.18732v1,Counterfactual Basis Extension and Representational Geometry: An MDL-Constrained Model of Conceptual Growth,ai_general,,2512.24340v1,0.0
+Random,2510.20276v2,From Generation to Attribution: Music AI Agent Architectures for the Post-Streaming Era,ir_retrieval,,2510.12916v2,0.1
+Random,2512.21921v1,AutoPP: Towards Automated Product Poster Generation and Optimization,cv_vision,,2512.16433v1,0.2
+Random,2512.16437v1,A Novel Proposal in Wind Turbine Blade Failure Detection: An Integrated Approach to Energy Efficiency and Sustainability,lg_ml,,2511.08378v3,0.1
+Random,2510.00966v1,Deep Learning-Based Approach for Improving Relational Aggregated Search,ir_retrieval,,2601.03273v2,0.2
+Random,2510.18239v3,LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling,ir_retrieval,,2510.04010v1,0.4
+Random,2512.24603v1,Collaborative Low-Rank Adaptation for Pre-Trained Vision Transformers,cv_vision,,2509.03696v1,0.1
+Random,2509.10975v2,ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER,ir_retrieval,,2512.19680v1,0.3
+Random,2509.03438v1,Non-Linear Counterfactual Aggregate Optimization,stat_ml,,2512.20164v2,0.2
+Random,2512.24461v1,Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents,ai_general,,2512.19154v1,0.2
+Random,2512.21095v1,UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters,cv_vision,,2601.04214v1,0.2
+Random,2510.16745v3,Kernel-Based Nonparametric Tests For Shape Constraints,stat_ml,,2512.16046v1,0.1
+Random,2512.13279v1,AIR: Post-training Data Selection for Reasoning via Attention Head Influence,cl_nlp,,2511.14096v1,0.1
+Random,2509.03661v1,ACT: Automated Constraint Targeting for Multi-Objective Recommender Systems,ir_retrieval,,2512.22046v2,0.2
+Random,2512.18215v1,Stable and Efficient Single-Rollout RL for Multimodal Reasoning,lg_ml,,2512.12597v1,0.0
+Random,2511.18024v1,Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems,ir_retrieval,,2601.02372v1,0.3
+Random,2512.06239v1,LOCUS: A System and Method for Low-Cost Customization for Universal Specialization,cl_nlp,,2512.13120v1,0.2
+Random,2512.24787v2,HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment,ir_retrieval,,2512.18454v2,0.1
+Random,2509.11962v1,Identifiable Autoregressive Variational Autoencoders for Nonlinear and Nonstationary Spatio-Temporal Blind Source Separation,stat_ml,,2512.21865v1,0.1
+Random,2512.23137v1,Graph Neural Networks with Transformer Fusion of Brain Connectivity Dynamics and Tabular Data for Forecasting Future Tobacco Use,lg_ml,,2512.20333v1,0.2
+Random,2512.23163v1,Why We Need a New Framework for Emotional Intelligence in AI,ai_general,,2512.24263v1,0.2
+Random,2512.10092v1,Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit,ai_general,,2601.08852v1,0.0
+Random,2512.12978v1,Do Reviews Matter for Recommendations in the Era of Large Language Models?,ir_retrieval,,2512.21683v1,0.2
+Random,2512.18968v2,Total Normal Curvature Regularization and its Minimization for Surface and Image Smoothing,cv_vision,,2510.05573v2,0.0
+Random,2511.18583v2,Differential privacy with dependent data,stat_ml,,2512.05257v1,0.1
+Random,2512.06348v1,Modeling Spatio-temporal Extremes via Conditional Variational Autoencoders,stat_ml,,2511.00176v1,0.1
+Random,2512.23145v1,Reservoir Computing inspired Matrix Multiplication-free Language Model,cl_nlp,,2512.22699v3,0.2
+Random,2510.22567v1,Semi-Supervised Learning under General Causal Models,stat_ml,,2510.22049v3,0.2
+Random,2512.24323v1,Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention,cv_vision,,2512.17796v1,0.3
+Random,2512.20724v1,SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention,cl_nlp,,2510.00671v2,0.0
+Random,2509.22486v1,Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks,ir_retrieval,,2512.21064v1,0.1
+Random,2511.08150v6,DiffuGR: Generative Document Retrieval with Diffusion Language Models,ir_retrieval,,2512.13131v1,0.1
+Random,2509.25783v6,Sharpness of Minima in Deep Matrix Factorization,stat_ml,,2512.18202v1,0.2
+Random,2509.03764v2,LLM-based Relevance Assessment for Web-Scale Search Evaluation at Pinterest,ir_retrieval,,2512.23905v1,0.1
+Random,2512.08609v2,CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models,ai_general,,2512.21760v1,0.0
+Random,2512.22189v1,Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification,lg_ml,,2602.18437v1,0.1
+Random,2512.06404v1,GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols,ai_general,,2512.18599v2,0.1
+Random,2512.04746v2,SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs,cl_nlp,,2512.22252v1,0.1
+Random,2512.18932v1,DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems,lg_ml,,2512.20898v1,0.0
+Random,2512.22249v1,Temporal Visual Semantics-Induced Human Motion Understanding with Large Language Models,lg_ml,,2509.21707v2,0.1
+Random,2512.05012v1,Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking,cl_nlp,,2512.21002v2,0.4
+Random,2601.11575v1,Concept Attractors in LLMs and their Applications,cl_nlp,,2512.14879v1,0.2
+Random,2512.18454v2,Out-of-Distribution Detection in Molecular Complexes via Diffusion Models for Irregular Graphs,lg_ml,,2512.12730v2,0.1
+Random,2512.25055v1,Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings,ai_general,,2512.15959v1,0.1
+Random,2512.19537v1,Event Extraction in Large Language Model,cl_nlp,,2512.23255v1,0.0
+Random,2512.18772v1,In-Context Audio Control of Video Diffusion Transformers,cv_vision,,2512.18473v1,0.0
+Random,2512.22903v1,Debugging Tabular Log as Dynamic Graphs,lg_ml,,2512.15120v1,0.1
+Random,2512.03762v2,RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design,ai_general,,2512.18527v1,0.2
+Random,2512.23572v1,Instruction-Following Evaluation of Large Vision-Language Models,cl_nlp,,2512.18999v1,0.1
+Random,2512.19114v1,HyperLoad: A Cross-Modality Enhanced Large Language Model-Based Framework for Green Data Center Cooling Load Prediction,lg_ml,,2512.12048v1,0.2
+Random,2512.18832v2,From Word to World: Can Large Language Models be Implicit Text-based World Models?,cl_nlp,,2512.21831v1,0.0
+Random,2510.01930v2,Precise Dynamics of Diagonal Linear Networks: A Unifying Analysis by Dynamical Mean-Field Theory,stat_ml,1.0,2510.01930v2,0.2
+Random,2512.24903v1,"FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation",cv_vision,,2511.23205v1,0.3
+Random,2509.23128v1,"Conditional Risk Minimization with Side Information: A Tractable, Universal Optimal Transport Framework",stat_ml,,2512.24851v2,0.4
+Random,2512.17720v1,Mitigating Forgetting in Low Rank Adaptation,lg_ml,,2512.20927v1,0.3
+Random,2510.09857v1,MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterest,ir_retrieval,,2512.06711v1,0.1
+Random,2509.16780v2,Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook,ir_retrieval,,2512.21514v1,0.1
+Random,2512.12775v2,"Persistent Personas? Role-Playing, Instruction Following, and Safety in Extended Interactions",cl_nlp,,2512.16144v1,0.2
+Random,2512.20305v2,A Structured Nonparametric Framework for Nonlinear Accelerated Failure Time Models (KAN-AFT),stat_ml,,2510.00966v1,0.2
+Random,2512.07795v1,ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning,ai_general,,2512.04545v1,0.1
+Random,2508.20942v1,Transfer Learning for Classification under Decision Rule Drift with Application to Optimal Individualized Treatment Rule Estimation,stat_ml,,2510.25240v3,0.1
+Random,2510.12709v3,SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model,ir_retrieval,,2601.00847v1,0.3
+Random,2510.22063v3,Deep Ensembles for Epistemic Uncertainty: A Frequentist Perspective,stat_ml,,2512.20755v1,0.1
+Random,2512.17080v1,Interpretable Similarity of Synthetic Image Utility,cv_vision,15.0,2511.12959v2,0.1
+Random,2512.19643v1,The Best of Both Worlds: Hybridizing Neural Operators and Solvers for Stable Long-Horizon Inference,lg_ml,,2601.04207v1,0.2
+Random,2512.23457v1,Replay Failures as Successes: Sample-Efficient Reinforcement Learning for Instruction Following,ai_general,,2512.13478v11,0.2
+Random,2512.15946v2,AIE4ML: An End-to-End Framework for Compiling Neural Networks for the Next Generation of AMD AI Engines,lg_ml,,2512.24885v1,0.2
+Random,2512.00313v1,Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System,ir_retrieval,,2512.06744v1,0.0
+Random,2512.24605v1,MoniRefer: A Real-world Large-scale Multi-modal Dataset based on Roadside Infrastructure for 3D Visual Grounding,cv_vision,,2512.23852v1,0.2
+Random,2512.08769v1,"A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows",ai_general,,2512.12736v1,0.2
+Random,2512.09487v1,RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning,cl_nlp,,2510.11066v3,0.1
+Random,2512.14851v1,Unreliable Uncertainty Estimates with Monte Carlo Dropout,lg_ml,,2512.24625v2,0.1
+Random,2510.12547v1,Universal Adaptive Environment Discovery,stat_ml,,2512.21902v1,0.2
+Random,2512.22392v1,iOSPointMapper: RealTime Pedestrian and Accessibility Mapping with Mobile AI,cv_vision,,2512.13142v4,0.0
+Random,2512.16386v1,Quantitative Verification of Fairness in Tree Ensembles,lg_ml,,2512.18209v5,0.4
+Random,2512.15298v1,ChatGPT and Gemini participated in the Korean College Scholastic Ability Test -- Earth Science I,ai_general,,2512.23367v2,0.0
+Random,2512.16698v1,Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning,ai_general,,2509.22124v2,0.1
+Random,2509.24095v2,Singleton-Optimized Conformal Prediction,stat_ml,,2512.21709v1,0.1
+Random,2601.00874v1,LLMize: A Framework for Large Language Model-Based Numerical Optimization,lg_ml,,2512.17034v1,0.2
+Random,2601.04202v1,TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation,cl_nlp,,2510.23990v1,0.1
+Random,2510.04508v1,MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations,ir_retrieval,,2512.15353v1,0.1
+Random,2511.02571v1,Average Precision at Cutoff k under Random Rankings: Expectation and Variance,ir_retrieval,,2512.21861v1,0.0
+Random,2512.14112v1,Optimizing Multi-Tier Supply Chain Ordering with a Hybrid Liquid Neural Network and Extreme Gradient Boosting Model,ai_general,,2512.15312v1,0.0
+Random,2512.18190v3,External Hippocampus: Topological Cognitive Maps for Guiding Large Language Model Reasoning,ai_general,,2512.09730v2,0.3
+Random,2509.19931v2,Documentation Retrieval Improves Planning Language Generation,ir_retrieval,,2512.07552v1,0.0
+Random,2511.04403v2,Online Bayesian Experimental Design for Partially Observed Dynamical Systems,stat_ml,,2512.18608v1,0.1
+Random,2509.12166v1,MMM: Clustering Multivariate Longitudinal Mixed-type Data,stat_ml,,2512.19729v1,0.2
+Random,2512.20028v1,DecoKAN: Interpretable Decomposition for Forecasting Cryptocurrency Market Dynamics,lg_ml,,2512.23075v4,0.3
+Random,2512.16912v3,"Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward",lg_ml,,2512.25075v1,0.4
+Random,2512.19995v3,Schoenfeld's Anatomy of Mathematical Reasoning by Language Models,cl_nlp,,2512.00367v1,0.1
+Random,2511.22253v1,UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries,ir_retrieval,,2511.05850v1,0.5
+Random,2512.24547v1,Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression,cv_vision,,2512.22597v1,0.1
+Random,2512.18241v1,SG-RIFE: Semantic-Guided Real-Time Intermediate Flow Estimation with Diffusion-Competitive Perceptual Quality,cv_vision,,2512.18774v1,0.1
+Random,2511.00217v1,Gradient Boosted Mixed Models: Flexible Joint Estimation of Mean and Variance Components for Clustered Data,stat_ml,,2509.25507v1,0.1
+Random,2512.15328v2,Thematic Dispersion in Arabic Applied Linguistics: A Bibliometric Analysis using Brookes' Measure,cl_nlp,,2512.15617v1,0.3
+Random,2512.14041v1,From Feature Interaction to Feature Generation: A Generative Paradigm of CTR Prediction Models,ir_retrieval,,2510.21333v1,0.3
+Random,2512.23028v1,An Architecture-Led Hybrid Report on Body Language Detection Project,cv_vision,,2512.15068v2,0.1
+Random,2511.09486v2,A general framework for adaptive nonparametric dimensionality reduction,stat_ml,,2510.20653v1,0.1
+Random,2512.20105v1,LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs,cv_vision,,2512.22483v1,0.3
+Random,2511.09577v1,Siegel Neural Networks,stat_ml,,2512.06431v1,0.0
+Random,2512.19424v1,CodeSimpleQA: Scaling Factuality in Code Large Language Models,cl_nlp,,2512.24504v2,0.1
+Random,2509.15432v1,SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models,ir_retrieval,,2512.20144v2,0.3
+Random,2512.14675v1,Beyond Lipschitz Continuity and Monotonicity: Fractal and Chaotic Activation Functions in Echo State Networks,lg_ml,,2512.18503v3,0.3
+Random,2512.17817v3,Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding,cv_vision,,2512.18202v1,0.3
+Random,2512.15926v3,DSO: Direct Steering Optimization for Bias Mitigation,lg_ml,,2512.17203v2,0.2
+Random,2512.04513v1,BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models,ai_general,,2512.18180v1,0.3
+Random,2509.26175v1,Spectral gap of Metropolis-within-Gibbs under log-concavity,stat_ml,,2512.13168v5,0.2
+Random,2512.16911v1,Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning,lg_ml,,2512.15925v2,0.2
+Random,2512.06710v1,Stochasticity in Agentic Evaluations: Quantifying Inconsistency with Intraclass Correlation,ai_general,,2512.04765v1,0.2
+Random,2509.19226v1,Neighbor Embeddings Using Unbalanced Optimal Transport Metrics,stat_ml,,2512.23177v1,0.1
+Random,2512.18254v1,Loom: Diffusion-Transformer for Interleaved Generation,cv_vision,,2512.23430v1,0.2
+Random,2509.10853v2,Variable Selection Using Relative Importance Rankings,stat_ml,,2512.21521v1,0.0
+Random,2512.08601v2,Heuristics for Combinatorial Optimization via Value-based Reinforcement Learning: A Unified Framework and Analysis,stat_ml,,2511.03330v1,0.1
+Random,2512.17303v1,EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance,cv_vision,,2509.21707v2,0.2
+Random,2512.19680v1,VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation,cv_vision,,2512.12735v1,0.1
+Random,2512.21545v1,EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal,cv_vision,,2509.07531v1,0.0
+Random,2510.22242v1,PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading,ir_retrieval,,2512.21315v1,0.0
+Random,2512.22439v3,SuperiorGAT: Graph Attention Networks for Sparse LiDAR Point Cloud Reconstruction in Autonomous Systems,cv_vision,,2512.20298v3,0.3
+Random,2512.24867v2,Encyclo-K: Evaluating LLMs with Dynamically Composed Knowledge Statements,cl_nlp,,2512.09212v2,0.2
+Random,2512.24663v1,Renormalization Group Guided Tensor Network Structure Search,cv_vision,,2512.07650v1,0.3
+Random,2512.18337v2,Towards Efficient Agents: A Co-Design of Inference Architecture and System,cl_nlp,,2510.16715v1,0.1
+Random,2512.19728v2,Hard Negative Sample-Augmented DPO Post-Training for Small Language Models,lg_ml,,2601.05264v1,0.2
+Random,2602.22219v1,Comparative Analysis of Neural Retriever-Reranker Pipelines for Retrieval-Augmented Generation over Knowledge Graphs in E-commerce Applications,ir_retrieval,,2512.10963v1,0.4
+Random,2512.17477v1,Deep Learning-Based Surrogate Creep Modelling in Inconel 625: A High-Temperature Alloy Study,lg_ml,,2601.00880v1,0.2
+Random,2512.20021v1,Gaussian Process Assisted Meta-learning for Image Classification and Object Detection Models,stat_ml,,2512.05119v1,0.4
+Random,2509.26262v1,Analyzing BEV Suitability and Charging Strategies Using Italian Driving Data,ir_retrieval,,2512.11505v1,0.3
+Random,2510.15012v1,From Universal Approximation Theorem to Tropical Geometry of Multi-Layer Perceptrons,stat_ml,,2512.19287v1,0.1
+Random,2512.23647v1,Nested Browser-Use Learning for Agentic Information Seeking,cl_nlp,,2509.12185v1,0.2
+Random,2512.04868v1,SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs,cl_nlp,,2510.25718v1,0.1
+Random,2512.15274v1,"Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning",cl_nlp,,2512.20182v4,0.3
+Random,2511.16943v2,RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers,ir_retrieval,,2511.05684v1,0.4
+Random,2512.16717v1,Phishing Detection System: An Ensemble Approach Using Character-Level CNN and Feature Engineering,lg_ml,,2510.10866v3,0.2
+Random,2512.09458v1,Architectures for Building Agentic AI,ai_general,,2511.05885v3,0.0
+Random,2510.15013v1,Reliable data clustering with Bayesian community detection,stat_ml,,2512.21616v1,0.2
+Random,2512.04488v2,Persona-based Multi-Agent Collaboration for Brainstorming,ai_general,,2512.20671v1,0.1
+Random,2512.16648v1,Exploiting Radio Frequency Fingerprints for Device Identification: Tackling Cross-receiver Challenges in the Source-data-free Scenario,lg_ml,,2512.00007v1,0.1
+Random,2512.19683v2,From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs,cv_vision,,2512.14491v1,0.3
+Random,2512.20723v1,From artificial to organic: Rethinking the roots of intelligence for digital health,ai_general,,2510.09857v1,0.2
+Random,2512.21015v2,FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing,cv_vision,,2512.11079v1,0.2
+Random,2512.22437v2,EmoCtrl: Controllable Emotional Image Content Generation,cv_vision,,2512.23097v1,0.2
+Random,2512.19275v1,Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation,cv_vision,,2509.11962v1,0.2
+Random,2510.10245v2,Kernel Treatment Effects with Adaptively Collected Data,stat_ml,,2512.22682v1,0.1
+Random,2512.16282v2,CALM: A CKA-Guided Adaptive Layer-Wise Modularization Framework for LLM Quantization,lg_ml,,2509.03726v2,0.3
+Random,2512.16913v1,Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation,cv_vision,,2512.10414v1,0.0
+Random,2512.13716v1,ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making,ai_general,,2602.22215v1,0.2
+Random,2509.16627v1,Conditional Multidimensional Scaling with Incomplete Conditioning Data,stat_ml,,2512.10739v2,0.2
+Random,2512.18475v2,Research on a hybrid LSTM-CNN-Attention model for text-based web content classification,cl_nlp,,2510.25514v1,0.1
+Random,2512.18738v1,AMLID: An Adaptive Multispectral Landmine Identification Dataset for Drone-Based Detection,cv_vision,,2512.21905v1,0.2
+Random,2510.20472v1,Concentration and excess risk bounds for imbalanced classification with synthetic oversampling,stat_ml,,2512.04144v1,0.1
+Random,2512.14617v1,Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes,lg_ml,,2510.13738v2,0.4
+Random,2509.24632v1,UniDex: Rethinking Search Inverted Indexing with Unified Semantic Modeling,ir_retrieval,,2512.20896v1,0.2
+Random,2512.21076v1,Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions,ir_retrieval,,2512.17559v1,0.0
+Random,2512.11081v1,Provable Recovery of Locally Important Signed Features and Interactions from Random Forest,stat_ml,,2512.20479v1,0.1
+Random,2512.21482v1,LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis,ai_general,,2512.04759v1,0.3
+Random,2509.22553v1,"Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement",stat_ml,,2510.15722v1,0.1
+Random,2512.08131v1,Universal Adversarial Suffixes for Language Models Using Reinforcement Learning with Calibrated Reward,cl_nlp,,2512.24896v1,0.0
+Random,2512.10501v2,Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation,ai_general,,2509.19276v1,0.1
+Random,2509.22325v1,Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?,ir_retrieval,,2512.22624v1,0.3
+Random,2510.04421v2,Learning Survival Models with Right-Censored Reporting Delays,stat_ml,,2512.04144v1,0.1
+Random,2511.05493v1,"GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",ir_retrieval,,2512.23457v1,0.0
+Random,2512.23947v1,Improved Balanced Classification with Theoretically Grounded Loss Functions,lg_ml,,2512.24325v1,0.2
+Random,2511.05991v1,Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance,ir_retrieval,,2512.11864v1,0.1
+Random,2512.19456v1,Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations,cl_nlp,,2512.06404v1,0.3
+Random,2512.20145v1,Retrieval-augmented Prompt Learning for Pre-trained Foundation Models,cl_nlp,,2512.19943v1,0.1
+Random,2512.09386v1,CONCUR: A Framework for Continual Constrained and Unconstrained Routing,cl_nlp,,2512.21791v1,0.0
+Random,2512.21775v1,Compliance Rating Scheme: A Data Provenance Framework for Generative AI Datasets,ai_general,,2512.23894v1,0.1
+Random,2512.13857v2,EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery,ai_general,,2512.19799v1,0.2
+Random,2512.21626v1,Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing,ai_general,,2512.12770v1,0.1
+Random,2601.00816v1,MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback,ai_general,,2512.23936v1,0.0
+Random,2512.04987v1,Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction,cl_nlp,,2510.00671v2,0.3
+Random,2512.21204v2,SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation,cl_nlp,,2512.24618v2,0.1
+Random,2512.15259v1,SynGP500: A Clinically-Grounded Synthetic Dataset of Australian General Practice Medical Notes,cl_nlp,,2512.23786v2,0.1
+Random,2512.19438v1,MT-Mark: Rethinking Image Watermarking via Mutual-Teacher Collaboration with Adaptive Feature Modulation,cv_vision,,2510.16597v1,0.2
+Random,2512.20898v1,DGSAN: Dual-Graph Spatiotemporal Attention Network for Pulmonary Nodule Malignancy Prediction,cv_vision,,2510.04970v2,0.1
+Random,2512.21127v1,A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care,ai_general,,2512.22454v1,0.2
+Random,2512.17058v2,Universal consistency of the $k$-NN rule in metric spaces and Nagata dimension. III,lg_ml,,2509.24312v1,0.4
+Random,2510.00463v4,On the Adversarial Robustness of Learning-based Conformal Novelty Detection,stat_ml,,2512.22087v1,0.1
+Random,2512.16295v1,OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models,ai_general,,2512.18311v1,0.1
+Random,2512.18247v1,Towards Ancient Plant Seed Classification: A Benchmark Dataset and Baseline Model,cv_vision,,2512.24002v1,0.2
+Random,2510.08948v3,SHERLOCK:Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management,ir_retrieval,,2512.24592v1,0.1
+Random,2509.07594v1,ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction,ir_retrieval,,2512.16901v1,0.1
+Random,2512.17206v1,Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs,cv_vision,,2512.05681v1,0.1
+Random,2512.15556v1,An Empirical Study on Chinese Character Decomposition in Multiword Expression-Aware Neural Machine Translation,cl_nlp,,2509.23127v1,0.0
+Random,2512.10691v1,Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning,ai_general,,2510.07624v3,0.0
+Random,2510.07784v1,PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations,ir_retrieval,,2512.17724v1,0.2
+Random,2512.15176v1,"DEER: Draft with Diffusion, Verify with Autoregressive Models",lg_ml,,2601.00869v1,0.3
+Random,2510.26407v1,Barlow Twins for Sequential Recommendation,ir_retrieval,,2601.05254v3,0.3
+Random,2512.14179v1,A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs,cl_nlp,,2512.22205v1,0.2
+Random,2512.10313v2,EpiPlanAgent: Agentic Automated Epidemic Response Planning,ai_general,,2512.16883v1,0.1
+Random,2512.17969v1,Convolutional-neural-operator-based transfer learning for solving PDEs,lg_ml,,2511.01364v1,0.0
+Random,2509.18560v1,"Understand your Users, An Ensemble Learning Framework for Natural Noise Filtering in Recommender Systems",ir_retrieval,,2510.15814v1,0.0
+Random,2512.22304v1,PortionNet: Distilling 3D Geometric Knowledge for Food Nutrition Estimation,cv_vision,,2512.15427v1,0.1
+Random,2512.06883v2,Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation,ir_retrieval,,2509.19929v4,0.1
+Random,2510.21242v2,Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation,ir_retrieval,,2512.15086v1,0.2
+Random,2511.16326v3,ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning,ir_retrieval,,2512.15946v2,0.2
+Random,2512.09944v3,Echo-CoPilot: A Multiple-Perspective Agentic Framework for Reliable Echocardiography Interpretation,ai_general,,2512.07541v2,0.0
+Random,2512.22378v1,Towards Efficient Post-Training via Fourier-Driven Adapter Architectures,cl_nlp,,2511.12959v2,0.1
+Random,2512.23767v1,Enabling Physical AI at the Edge: Hardware-Accelerated Recovery of System Dynamics,lg_ml,19.0,2512.10273v1,0.1
+Random,2512.22854v2,ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning,cv_vision,,2509.18047v1,0.4
+Random,2512.22626v1,Envision: Embodied Visual Planning via Goal-Imagery Video Diffusion,cv_vision,,2512.16378v4,0.1
+Random,2512.21708v1,MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles,cl_nlp,,2512.10631v2,0.2
+Random,2512.20854v2,How important is Recall for Measuring Retrieval Quality?,cl_nlp,,2512.16802v1,0.2
+Random,2512.24195v1,CorGi: Contribution-Guided Block-Wise Interval Caching for Training-Free Acceleration of Diffusion Transformers,cv_vision,,2512.15538v1,0.2
+Random,2512.03057v1,A note on the impossibility of conditional PAC-efficient reasoning in large language models,stat_ml,,2512.21707v1,0.1
+Random,2510.01553v3,IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data,ir_retrieval,,2512.19367v2,0.0
+Random,2512.16883v1,AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning,cl_nlp,,2510.16334v1,0.3
+Random,2509.22459v4,Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs),stat_ml,,2512.24205v1,0.2
+Random,2509.15380v2,Efficient and Versatile Model for Multilingual Information Retrieval of Islamic Text: Development and Deployment in Real-World Scenarios,ir_retrieval,,2509.09078v2,0.1
+Random,2512.20260v5,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,cv_vision,,2512.12288v1,0.0
+Random,2512.04895v1,Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems,ai_general,,2512.23343v1,0.2
+Random,2512.05156v2,Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations,ai_general,,2512.12692v1,0.3
+Random,2512.23565v5,RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature,cv_vision,,2512.18601v1,0.3
+Random,2512.23977v1,Causify DataFlow: A Framework For High-performance Machine Learning Stream Computing,lg_ml,,2512.12435v1,0.1
+Random,2510.14626v1,GemiRec: Interest Quantization and Generation for Multi-Interest Recommendation,ir_retrieval,,2601.00092v2,0.2
+Random,2512.20893v1,Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks,lg_ml,,2512.16103v1,0.2
+Random,2512.21804v1,S&P 500 Stock's Movement Prediction using CNN,cv_vision,,2512.20022v1,0.1
+Random,2512.19486v1,Dynamic Stream Network for Combinatorial Explosion Problem in Deformable Medical Image Registration,cv_vision,,2510.04602v3,0.4
+Random,2512.16742v1,Machine Learning Algorithms: Detection Official Hajj and Umrah Travel Agency Based on Text and Metadata Analysis,lg_ml,,2512.19057v2,0.3
+Random,2512.14693v3,Universal Reasoning Model,ai_general,,2512.22774v1,0.1
+Random,2512.23512v2,UniHetero: Could Generation Enhance Understanding for Vision-Language-Model at Large Data Scale?,cl_nlp,,2512.16676v1,0.0
+Random,2512.22322v2,SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents,cl_nlp,,2510.06685v2,0.1
+Random,2512.17296v2,Towards Pixel-Wise Anomaly Location for High-Resolution PCBA via Self-Supervised Image Reconstruction,cv_vision,,2512.19909v1,0.3
+Random,2512.04545v1,EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion,cl_nlp,,2511.03756v1,0.0
+Random,2512.05576v1,CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning,ai_general,,2512.04921v3,0.3
+Random,2512.21625v1,Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards,cl_nlp,,2512.21422v1,0.1
+Random,2512.17145v2,Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty,ai_general,,2512.16111v1,0.2
+Random,2510.13590v1,RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge,ir_retrieval,,2512.21799v2,0.2
+Random,2512.11505v1,BAID: A Benchmark for Bias Assessment of AI Detectors,ai_general,,2512.16902v2,0.1
+Random,2512.23436v2,Fuzzy-Logic and Deep Learning for Environmental Condition-Aware Road Surface Classification,cv_vision,,2510.10744v1,0.1
+Random,2512.21670v1,The Deepfake Detective: Interpreting Neural Forensics Through Sparse Features and Manifolds,cv_vision,,2512.21451v2,0.2
+Random,2512.24927v1,Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach,stat_ml,7.0,2512.06256v1,0.1
+Random,2601.02386v1,Tree of Preferences for Diversified Recommendation,ir_retrieval,,2512.24933v2,0.2
+Random,2512.09662v1,Can LLMs Evaluate What They Cannot Annotate? Revisiting LLM Reliability in Hate Speech Detection,cl_nlp,,2511.04221v1,0.1
+Random,2510.21028v1,Communication Platform for Non-verbal Autistic children in Oman using Android mobile,ir_retrieval,,2512.10339v1,0.0
+Random,2512.20666v1,Dominating vs. Dominated: Generative Collapse in Diffusion Models,lg_ml,,2512.24443v1,0.2
+Random,2509.17251v1,Risk Comparisons in Linear Regression: Implicit Regularization Dominates Explicit Regularization,stat_ml,,2512.15427v1,0.1
+Random,2512.20950v1,MultiMind at SemEval-2025 Task 7: Crosslingual Fact-Checked Claim Retrieval via Multi-Source Alignment,cl_nlp,,2512.21446v2,0.0
+Random,2510.13445v1,Robust Minimax Boosting with Performance Guarantees,stat_ml,,2512.07212v2,0.1
+Random,2511.05498v1,Biomedical Hypothesis Explainability with Graph-Based Context Retrieval,ir_retrieval,,2512.20086v1,0.0
+Random,2512.06615v1,Latent Nonlinear Denoising Score Matching for Enhanced Learning of Structured Distributions,stat_ml,,2512.19199v1,0.0
+Random,2511.04901v1,Association via Entropy Reduction,ir_retrieval,,2601.00832v1,0.5
+Random,2512.22223v1,ReGAIN: Retrieval-Grounded AI Framework for Network Traffic Analysis,lg_ml,,2512.22601v1,0.2
+Random,2512.14085v1,Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study,cl_nlp,,2510.15141v4,0.0
+Random,2512.22293v1,Learning from Negative Examples: Why Warning-Framed Training Data Teaches What It Warns Against,lg_ml,,2512.16401v4,0.1
+Random,2509.05106v1,Spectral Algorithms in Misspecified Regression: Convergence under Covariate Shift,stat_ml,,2512.17312v2,0.3
+Random,2511.15634v1,Rényi Differential Privacy for Heavy-Tailed SDEs via Fractional Poincaré Inequalities,stat_ml,,2512.04980v1,0.3
+Random,2512.20113v3,Multi-Sensor Attention Networks for Automated Subsurface Delamination Detection in Concrete Bridge Decks,cv_vision,,2512.24263v1,0.1
+Random,2512.20002v3,LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models,lg_ml,,2512.16902v2,0.2
+Random,2511.06803v1,Learning to Fast Unrank in Collaborative Filtering Recommendation,ir_retrieval,,2512.10821v2,0.0
+Random,2512.09238v2,Training-free Context-adaptive Attention for Efficient Long Context Modeling,cl_nlp,,2510.15141v4,0.0
+Random,2512.24733v1,BIOME-Bench: A Benchmark for Biomolecular Interaction Inference and Multi-Omics Pathway Mechanism Elucidation from Scientific Literature,cl_nlp,,2510.08929v1,0.2
+Random,2512.22102v1,Explainable Multimodal Regression via Information Decomposition,lg_ml,,2510.13590v1,0.1
+Random,2512.01820v1,Dimension-free error estimate for diffusion model and optimal scheduling,stat_ml,,2510.27274v1,0.2
+Random,2512.16701v1,Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences,ai_general,,2509.11094v1,0.3
+Random,2512.14879v1,Entropy-Reservoir Bregman Projection: An Information-Geometric Unification of Model Collapse,lg_ml,,2509.24095v2,0.2
+Random,2512.16378v4,Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs,cl_nlp,,2512.10348v1,0.0
+Random,2512.10433v1,Targeted Data Protection for Diffusion Model by Matching Training Trajectory,ai_general,,2512.22027v1,0.1
+Random,2510.22298v1,MetaCaDI: A Meta-Learning Framework for Scalable Causal Discovery with Unknown Interventions,stat_ml,,2512.20213v1,0.1
+Random,2512.19246v1,From Black-Box Tuning to Guided Optimization via Hyperparameters Interaction Analysis,lg_ml,,2511.13201v2,0.0
+Random,2512.19091v1,"Auditing Significance, Metric Choice, and Demographic Fairness in Medical AI Challenges",cv_vision,,2512.19022v2,0.2
+Random,2512.15267v1,Distillation-Guided Structural Transfer for Continual Learning Beyond Sparse Distributed Memory,lg_ml,,2512.06239v1,0.1
+Random,2512.18553v1,Hierarchical Bayesian Framework for Multisource Domain Adaptation,cv_vision,,2512.12806v1,0.1
+Random,2512.15140v1,Generalization and Feature Attribution in Machine Learning Models for Crop Yield and Anomaly Prediction in Germany,lg_ml,,2512.08230v2,0.2
+Random,2512.17091v2,"Learning to Plan, Planning to Learn: Adaptive Hierarchical RL-MPC for Sample-Efficient Decision Making",lg_ml,,2512.19534v1,0.0
+Random,2512.21527v1,Generative Actor Critic,lg_ml,,2512.02502v1,0.3
+Random,2512.17838v1,ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges,cv_vision,,2512.22217v1,0.3
+Random,2512.24997v1,Classifying long legal documents using short random chunks,cl_nlp,,2512.06744v1,0.2
+Random,2512.13559v1,Verifying Rumors via Stance-Aware Structural Modeling,cl_nlp,,2512.04738v1,0.3
+Random,2511.03125v2,Provable Accelerated Bayesian Optimization with Knowledge Transfer,stat_ml,,2509.01685v2,0.2
+Random,2512.11187v1,Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling,ai_general,,2512.22222v3,0.3
+Random,2512.23988v1,Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process,cl_nlp,,2510.26121v1,0.2
+Random,2510.16657v2,Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence,stat_ml,,2512.21867v1,0.3
+Random,2512.23684v1,Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing,cl_nlp,,2512.18755v1,0.0
+Random,2512.24460v1,IELTS Writing Revision Platform with Automated Essay Scoring and Adaptive Feedback,cl_nlp,,2601.04211v1,0.2
+Random,2509.04820v1,Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation,ir_retrieval,,2512.08147v2,0.1
+Random,2512.05925v1,To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis,ai_general,,2512.18266v1,0.3
+Random,2512.16409v1,Geometric Laplace Neural Operator,lg_ml,,2512.23147v2,0.1
+Random,2512.14908v5,ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs,lg_ml,,2512.22647v2,0.0
+Random,2601.08843v1,"Rubric-Conditioned LLM Grading: Alignment, Uncertainty, and Robustness",cl_nlp,15.0,2511.04291v1,0.4
+Random,2511.18750v1,On Instability of Minimax Optimal Optimism-Based Bandit Algorithms,stat_ml,,2512.18471v1,0.1
+Random,2512.16465v2,cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution,ai_general,,2512.16444v1,0.2
+Random,2512.23222v1,Bridging Your Imagination with Audio-Video Generation via a Unified Director,cv_vision,,2512.23851v5,0.2
+Random,2512.18618v1,Assignment-Routing Optimization: Solvers for Problems Under Constraints,ai_general,,2510.25514v1,0.1
+Random,2509.00990v1,Hybrid Topic-Semantic Labeling and Graph Embeddings for Unsupervised Legal Document Clustering,stat_ml,,2512.15556v1,0.3
+Random,2512.17820v2,Exploiting ID-Text Complementarity via Ensembling for Sequential Recommendation,lg_ml,,2509.23800v3,0.0
+Random,2512.21451v2,An approach to Fisher-Rao metric for infinite dimensional non-parametric information geometry,stat_ml,,2510.06995v1,0.1
+Random,2510.23985v1,Score-based constrained generative modeling via Langevin diffusions with boundary conditions,stat_ml,,2509.22549v1,0.3
+Random,2512.24713v2,FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference,lg_ml,,2512.20794v1,0.1
+Random,2512.20298v3,Patterns vs. Patients: Evaluating LLMs against Mental Health Professionals on Personality Disorder Diagnosis through First-Person Narratives,cl_nlp,,2512.21264v1,0.2
+Random,2511.06479v1,Bridging Theory and Practice: A Stochastic Learning-Optimization Model for Resilient Automotive Supply Chains,stat_ml,13.0,2512.12175v1,0.1
+Random,2512.06169v1,Morphologically-Informed Tokenizers for Languages with Non-Concatenative Morphology: A case study of Yoloxóchtil Mixtec ASR,cl_nlp,,2512.23852v1,0.1
+Random,2512.22979v3,PoseStreamer: A Multi-modal Framework for 3D Tracking of Unseen Moving Objects,cv_vision,,2512.22626v1,0.3
+Random,2512.20563v2,LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving,cv_vision,,2512.23763v2,0.3
+Random,2512.19960v1,FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification,ai_general,,2512.22483v1,0.2
+Random,2512.10322v2,User-Feedback-Driven Adaptation for Vision-and-Language Navigation,ai_general,,2512.10696v2,0.5
+Random,2512.07611v1,"Comparative Analysis and Parametric Tuning of PPO, GRPO, and DAPO for LLM Reasoning Enhancement",ai_general,,2512.24289v1,0.1
+Random,2512.09912v1,Supervised learning pays attention,stat_ml,,2512.18608v1,0.1
+Random,2510.01098v1,"Theory of Scaling Laws for In-Context Regression: Depth, Width, Context and Time",stat_ml,,2512.24156v1,0.1
+Random,2512.18857v3,CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning,ai_general,,2512.17160v2,0.1
+Random,2512.24381v2,Tubular Riemannian Laplace Approximations for Bayesian Neural Networks,lg_ml,,2512.18434v2,0.1
+Random,2511.16288v1,Spectral Identifiability for Interpretable Probe Geometry,stat_ml,,2512.17637v2,0.0
+Random,2512.17098v2,Predictive Modeling of Maritime Radar Data Using Transformer Architecture,cv_vision,,2512.17650v1,0.3
+Random,2512.23165v2,Evaluating Parameter Efficient Methods for RLVR,lg_ml,,2512.17098v2,0.1
+Random,2510.18332v1,"Parametrising the Inhomogeneity Inducing Capacity of a Training Set, and its Impact on Supervised Learning",stat_ml,,2510.02657v3,0.1
+Random,2512.05647v2,A Greek Government Decisions Dataset for Public-Sector Analysis and Insight,cl_nlp,,2512.11052v1,0.1
+Random,2601.00844v1,Value-guided action planning with JEPA world models,lg_ml,,2512.22243v1,0.1
+Random,2512.18980v1,OPBO: Order-Preserving Bayesian Optimization,lg_ml,,2512.19732v1,0.3
+Random,2512.14051v1,OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value,ai_general,,2512.24933v2,0.2
+Random,2512.07407v2,Training Language Models to Use Prolog as a Tool,cl_nlp,,2512.21714v2,0.1
+Random,2510.07644v1,ISMIE: A Framework to Characterize Information Seeking in Modern Information Environments,ir_retrieval,,2510.07885v1,0.1
+Random,2512.23353v2,ISOPO: Proximal policy gradients without pi-old,lg_ml,,2512.08296v3,0.0
+Random,2512.24386v1,RedunCut: Measurement-Driven Sampling and Accuracy Performance Modeling for Low-Cost Live Video Analytics,cv_vision,,2512.15740v1,0.0
+Random,2510.09167v2,Hierarchical Semantic RL: Tackling the Problem of Dynamic Action Space for RL-based Recommendations,ir_retrieval,,2509.11139v1,0.3
+Random,2509.01551v1,Cloud-Device Collaborative Agents for Sequential Recommendation,ir_retrieval,,2512.13598v1,0.1
+Random,2510.07621v1,Retentive Relevance: Capturing Long-Term User Value in Recommendation Systems,ir_retrieval,,2510.07965v1,0.2
+Random,2511.03330v1,Discourse-Aware Scientific Paper Recommendation via QA-Style Summarization and Multi-Level Contrastive Learning,ir_retrieval,,2510.11789v2,0.0
+Random,2511.05885v3,An item is worth one token in Multimodal Large Language Models-based Sequential Recommendation,ir_retrieval,,2510.03281v1,0.3
+Random,2512.04416v2,DataGovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows,ai_general,,2512.04578v3,0.1
+Random,2601.00828v1,Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis,ai_general,,2509.01536v3,0.2
+Random,2601.00138v2,Explicit Abstention Knobs for Predictable Reliability in Video Question Answering,ai_general,,2512.16453v2,0.3
+Random,2510.22667v1,Block Coordinate Descent for Neural Networks Provably Finds Global Minima,stat_ml,,2509.19929v4,0.4
+Random,2512.15038v2,LADY: Linear Attention for Autonomous Driving Efficiency without Transformers,ai_general,,2512.23206v1,0.3
+Random,2511.21915v1,"Algorithms and Scientific Software for Quasi-Monte Carlo, Fast Gaussian Process Regression, and Scientific Machine Learning",stat_ml,,2512.16715v2,0.2
+Random,2512.21170v1,A Unified Framework for EEG Seizure Detection Using Universum-Integrated Generalized Eigenvalues Proximal Support Vector Machine,lg_ml,,2512.23020v2,0.2
+Random,2512.22471v5,The Bayesian Geometry of Transformer Attention,lg_ml,,2512.21933v1,0.0
+Random,2509.03696v1,LLMs for estimating positional bias in logged interaction data,ir_retrieval,,2510.21151v1,0.4
+Random,2512.21685v1,RIPCN: A Road Impedance Principal Component Network for Probabilistic Traffic Flow Forecasting,lg_ml,,2512.01546v1,0.4
+Random,2512.22802v1,ReDiF: Reinforced Distillation for Few Step Diffusion,lg_ml,,2512.23208v1,0.1
+Random,2512.12856v1,Forgetful but Faithful: A Cognitive Memory Architecture and Benchmark for Privacy-Aware Generative Agents,ai_general,,2512.22972v2,0.1
+Random,2509.04751v1,Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms,ir_retrieval,,2512.06744v1,0.2
+Random,2512.07090v1,Leveraging KV Similarity for Online Structured Pruning in LLMs,cl_nlp,,2512.18763v1,0.1
+Random,2509.02227v1,Application Of Large Language Models For The Extraction Of Information From Particle Accelerator Technical Documentation,ir_retrieval,,2512.23169v2,0.1
+Random,2512.13607v2,Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models,cl_nlp,,2512.20352v2,0.6
+Random,2512.19012v2,DramaBench: A Six-Dimensional Evaluation Framework for Drama Script Continuation,cl_nlp,,2509.19955v2,0.1
+Random,2509.04694v1,Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems,ir_retrieval,,2512.22349v1,0.1
+Random,2509.25494v1,On-Premise AI for the Newsroom: Evaluating Small Language Models for Investigative Document Search,ir_retrieval,,2512.19409v1,0.1
+Random,2512.16650v1,Prefix Probing: Lightweight Harmful Content Detection for Large Language Models,ai_general,,2509.03317v4,0.1
+Random,2510.13371v1,MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation,ir_retrieval,,2512.23936v1,0.0
+Random,2510.19020v2,Calibrated Principal Component Regression,stat_ml,,2512.23161v1,0.1
+Random,2512.22601v1,"Tyee: A Unified, Modular, and Fully-Integrated Configurable Toolkit for Intelligent Physiological Health Care",ai_general,,2512.20376v1,0.0
+Random,2512.16183v2,A Domain-Adapted Pipeline for Structured Information Extraction from Police Incident Announcements on Social Media,cl_nlp,,2512.09538v2,0.2
+Random,2512.22234v2,DiRL: An Efficient Post-Training Framework for Diffusion Language Models,lg_ml,,2512.23667v2,0.3
+Random,2512.22218v1,"Towards Signboard-Oriented Visual Question Answering: ViSignVQA Dataset, Method and Benchmark",cv_vision,,2509.02377v1,0.2
+Random,2512.21459v1,CCAD: Compressed Global Feature Conditioned Anomaly Detection,cv_vision,,2511.03216v1,0.1
+Random,2512.11421v1,Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance,ai_general,,2512.21902v1,0.0
+Random,2512.00979v1,An Approach to Variable Clustering: K-means in Transposed Data and its Relationship with Principal Component Analysis,stat_ml,,2509.04919v1,0.2
+Random,2601.04200v1,Attribute-Aware Controlled Product Generation with LLMs for E-commerce,cl_nlp,,2512.22606v1,0.1
+Random,2512.12742v2,A Novel Framework Using Variational Inference with Normalizing Flows to Train Transport Reversible Jump Proposals,stat_ml,,2510.18161v3,0.4
+Random,2512.13979v1,ReflCtrl: Controlling LLM Reflection via Representation Engineering,ai_general,,2510.04602v3,0.0
+Random,2512.20745v3,AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent,ai_general,,2512.15998v1,0.3
+Random,2512.21915v1,Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs,lg_ml,,2601.00023v1,0.1
+Random,2512.19019v1,Optimizer Dynamics at the Edge of Stability with Differential Privacy,lg_ml,,2512.18254v1,0.2
+Random,2512.05162v1,How to Tame Your LLM: Semantic Collapse in Continuous Systems,stat_ml,,2511.12004v2,0.0
+Random,2512.05365v1,MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare,ai_general,,2510.02219v2,0.3
+Random,2512.18755v1,MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking,ai_general,,2510.21713v1,0.3
+Random,2512.14576v1,"Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies",cl_nlp,,2512.19864v2,0.2
+Random,2601.00905v1,Evaluating Contextual Intelligence in Recyclability: A Comprehensive Study of Image-Based Reasoning Systems,cv_vision,,2512.22279v1,0.2
+Random,2512.23232v1,SURE Guided Posterior Sampling: Trajectory Correction for Diffusion-Based Inverse Problems,cv_vision,,2512.22737v1,0.5
+Random,2512.15335v1,Bits for Privacy: Evaluating Post-Training Quantization via Membership Inference,lg_ml,,2512.22223v1,0.3
+Random,2601.04212v1,TrueBrief: Faithful Summarization through Small Language Models,cl_nlp,,2511.03298v2,0.2
+Random,2601.09723v1,"SagaScale: A Realistic, Scalable, and High-Quality Long-Context Benchmark Built from Full-Length Novels",cl_nlp,,2601.00139v1,0.1
+Random,2509.22467v2,CausalKANs: interpretable treatment effect estimation with Kolmogorov-Arnold networks,stat_ml,,2512.22211v1,0.1
+Random,2512.19543v1,Algerian Dialect,cl_nlp,,2511.20235v2,0.1
+Random,2512.11469v2,"Three methods, one problem: Classical and AI approaches to no-three-in-line",ai_general,,2512.04987v1,0.3
+Random,2512.16718v1,"Polyharmonic Spline Packages: Composition, Efficient Procedures for Computation and Differentiation",lg_ml,,2509.02558v1,0.0
+Random,2512.15120v1,Automatic Reward Shaping from Multi-Objective Human Heuristics,lg_ml,,2512.21650v2,0.1
+Random,2512.13070v1,M-GRPO: Stabilizing Self-Supervised Reinforcement Learning for Large Language Models with Momentum-Anchored Policy Optimization,ai_general,,2510.15683v1,0.1
+Random,2512.23043v1,Mechanistic Analysis of Circuit Preservation in Federated Learning,lg_ml,,2509.15989v1,0.0
+Random,2510.03929v2,Self-Speculative Masked Diffusions,stat_ml,,2512.15083v1,0.0
+Random,2512.17227v1,Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning,cv_vision,,2512.14036v1,0.1
+Random,2512.20562v2,Shallow Neural Networks Learn Low-Degree Spherical Polynomials with Feature Learning by Learnable Channel Attention,stat_ml,,2512.22386v2,0.0
+Random,2512.23808v1,MiMo-Audio: Audio Language Models are Few-Shot Learners,cl_nlp,,2602.11157v1,0.2
+Random,2512.15906v2,Darth Vecdor: An Open-Source System for Generating Knowledge Graphs Through Large Language Model Queries,ai_general,,2512.24160v2,0.1
+Random,2511.10919v1,Heterogeneous Multisource Transfer Learning via Model Averaging for Positive-Unlabeled Data,stat_ml,,2512.22031v1,0.1
+Random,2509.03692v1,lifeXplore at the Lifelog Search Challenge 2021,ir_retrieval,,2512.10691v1,0.0
+Random,2511.22247v1,FIGROTD: A Friendly-to-Handle Dataset for Image Guided Retrieval with Optional Text,ir_retrieval,,2512.04287v1,0.2
+Random,2512.22744v1,Bridging Global Intent with Local Details: A Hierarchical Representation Approach for Semantic Validation in Text-to-SQL,lg_ml,,2512.20988v1,0.4
+Random,2512.14277v1,SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions,ir_retrieval,,2512.24294v1,0.2
+BM25,2512.23903v2,Scaling Remote Sensing Foundation Models: Data Domain Tradeoffs at the Peta-Scale,cv_vision,1.0,2512.23903v2,0.7
+BM25,2512.17851v2,InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models,cv_vision,1.0,2512.17851v2,0.8
+BM25,2512.22374v1,Self-Evaluation Unlocks Any-Step Text-to-Image Generation,cv_vision,1.0,2512.22374v1,0.7
+BM25,2511.23205v1,A PLS-Integrated LASSO Method with Application in Index Tracking,stat_ml,1.0,2511.23205v1,0.8
+BM25,2512.17907v1,Dexterous World Models,cv_vision,2.0,2512.24965v1,0.3
+BM25,2512.22203v1,TCFormer: A 5M-Parameter Transformer with Density-Guided Aggregation for Weakly-Supervised Crowd Counting,cv_vision,1.0,2512.22203v1,0.3
+BM25,2512.23131v1,SE-MLP Model for Predicting Prior Acceleration Features in Penetration Signals,lg_ml,1.0,2512.23131v1,0.4
+BM25,2512.23635v1,Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception,cv_vision,1.0,2512.23635v1,0.6
+BM25,2512.19605v1,KerJEPA: Kernel Discrepancies for Euclidean Self-Supervised Learning,lg_ml,2.0,2509.07289v2,0.1
+BM25,2512.16918v3,AdaTooler-V: Adaptive Tool-Use for Images and Videos,cv_vision,1.0,2512.16918v3,0.4
+BM25,2510.16803v1,An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision,ir_retrieval,1.0,2510.16803v1,0.5
+BM25,2512.24000v2,WISE: Web Information Satire and Fakeness Evaluation,cl_nlp,1.0,2512.24000v2,0.0
+BM25,2509.20989v2,Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems,ir_retrieval,1.0,2509.20989v2,0.6
+BM25,2512.17675v1,An Empirical Study of Sampling Hyperparameters in Diffusion-Based Super-Resolution,cv_vision,1.0,2512.17675v1,0.6
+BM25,2602.23371v1,Domain-Partitioned Hybrid RAG for Legal Reasoning: Toward Modular and Explainable Legal AI for India,ir_retrieval,1.0,2602.23371v1,0.1
+BM25,2509.22919v1,Label-Guided Imputation via Forest-Based Proximities for Improved Time Series Classification,stat_ml,1.0,2509.22919v1,0.4
+BM25,2512.10304v1,Trustworthy Orchestration Artificial Intelligence by the Ten Criteria with Control-Plane Governance,ai_general,1.0,2512.10304v1,0.7
+BM25,2512.20135v2,MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization,ai_general,1.0,2512.20135v2,0.4
+BM25,2510.01944v1,Uniform-in-time convergence bounds for Persistent Contrastive Divergence Algorithms,stat_ml,1.0,2510.01944v1,0.8
+BM25,2512.19510v1,Toward Scalable and Valid Conditional Independence Testing with Spectral Representations,lg_ml,1.0,2512.19510v1,0.2
+BM25,2512.17612v1,Self-Supervised Weighted Image Guided Quantitative MRI Super-Resolution,cv_vision,1.0,2512.17612v1,0.9
+BM25,2511.03000v1,Unifying Information-Theoretic and Pair-Counting Clustering Similarity,stat_ml,1.0,2511.03000v1,0.2
+BM25,2512.14766v1,GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge,ai_general,1.0,2512.14766v1,0.6
+BM25,2601.00879v1,VL-OrdinalFormer: Vision Language Guided Ordinal Transformers for Interpretable Knee Osteoarthritis Grading,cv_vision,1.0,2601.00879v1,0.5
+BM25,2512.13655v2,Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation,cl_nlp,1.0,2512.13655v2,0.3
+BM25,2512.23971v1,CEC-Zero: Zero-Supervision Character Error Correction with Self-Generated Rewards,cl_nlp,1.0,2512.23971v1,0.2
+BM25,2512.24331v1,Spatial-aware Vision Language Model for Autonomous Driving,cv_vision,1.0,2512.24331v1,0.8
+BM25,2512.23545v1,PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis,cv_vision,1.0,2512.23545v1,0.4
+BM25,2512.02474v2,Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation,ir_retrieval,1.0,2512.02474v2,0.9
+BM25,2512.17331v1,SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation,cv_vision,1.0,2512.17331v1,0.8
+BM25,2512.16917v3,Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning,ai_general,1.0,2512.16917v3,0.3
+BM25,2511.14710v1,Towards a Unified Analysis of Neural Networks in Nonparametric Instrumental Variable Regression: Optimization and Generalization,stat_ml,1.0,2511.14710v1,0.9
+BM25,2601.05269v2,Studying Illustrations in Manuscripts: An Efficient Deep-Learning Approach,ir_retrieval,1.0,2601.05269v2,0.2
+BM25,2509.05564v1,Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models,ir_retrieval,3.0,2512.15219v1,0.7
+BM25,2512.18732v1,Counterfactual Basis Extension and Representational Geometry: An MDL-Constrained Model of Conceptual Growth,ai_general,1.0,2512.18732v1,0.3
+BM25,2510.20276v2,From Generation to Attribution: Music AI Agent Architectures for the Post-Streaming Era,ir_retrieval,1.0,2510.20276v2,0.1
+BM25,2512.21921v1,AutoPP: Towards Automated Product Poster Generation and Optimization,cv_vision,1.0,2512.21921v1,0.1
+BM25,2512.16437v1,A Novel Proposal in Wind Turbine Blade Failure Detection: An Integrated Approach to Energy Efficiency and Sustainability,lg_ml,1.0,2512.16437v1,0.2
+BM25,2510.00966v1,Deep Learning-Based Approach for Improving Relational Aggregated Search,ir_retrieval,1.0,2510.00966v1,0.4
+BM25,2510.18239v3,LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling,ir_retrieval,1.0,2510.18239v3,0.9
+BM25,2512.24603v1,Collaborative Low-Rank Adaptation for Pre-Trained Vision Transformers,cv_vision,1.0,2512.24603v1,0.4
+BM25,2509.10975v2,ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER,ir_retrieval,1.0,2509.10975v2,0.0
+BM25,2509.03438v1,Non-Linear Counterfactual Aggregate Optimization,stat_ml,,2601.00885v1,0.4
+BM25,2512.24461v1,Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents,ai_general,1.0,2512.24461v1,0.7
+BM25,2512.21095v1,UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters,cv_vision,1.0,2512.21095v1,0.2
+BM25,2510.16745v3,Kernel-Based Nonparametric Tests For Shape Constraints,stat_ml,1.0,2510.16745v3,0.8
+BM25,2512.13279v1,AIR: Post-training Data Selection for Reasoning via Attention Head Influence,cl_nlp,1.0,2512.13279v1,0.3
+BM25,2509.03661v1,ACT: Automated Constraint Targeting for Multi-Objective Recommender Systems,ir_retrieval,1.0,2509.03661v1,0.8
+BM25,2512.18215v1,Stable and Efficient Single-Rollout RL for Multimodal Reasoning,lg_ml,1.0,2512.18215v1,0.3
+BM25,2511.18024v1,Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems,ir_retrieval,1.0,2511.18024v1,0.8
+BM25,2512.06239v1,LOCUS: A System and Method for Low-Cost Customization for Universal Specialization,cl_nlp,1.0,2512.06239v1,0.2
+BM25,2512.24787v2,HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment,ir_retrieval,1.0,2512.24787v2,0.8
+BM25,2509.11962v1,Identifiable Autoregressive Variational Autoencoders for Nonlinear and Nonstationary Spatio-Temporal Blind Source Separation,stat_ml,1.0,2509.11962v1,0.4
+BM25,2512.23137v1,Graph Neural Networks with Transformer Fusion of Brain Connectivity Dynamics and Tabular Data for Forecasting Future Tobacco Use,lg_ml,1.0,2512.23137v1,0.4
+BM25,2512.23163v1,Why We Need a New Framework for Emotional Intelligence in AI,ai_general,1.0,2512.23163v1,0.3
+BM25,2512.10092v1,Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit,ai_general,1.0,2512.10092v1,0.0
+BM25,2512.12978v1,Do Reviews Matter for Recommendations in the Era of Large Language Models?,ir_retrieval,1.0,2512.12978v1,0.8
+BM25,2512.18968v2,Total Normal Curvature Regularization and its Minimization for Surface and Image Smoothing,cv_vision,1.0,2512.18968v2,0.3
+BM25,2511.18583v2,Differential privacy with dependent data,stat_ml,8.0,2511.18876v1,0.7
+BM25,2512.06348v1,Modeling Spatio-temporal Extremes via Conditional Variational Autoencoders,stat_ml,1.0,2512.06348v1,0.6
+BM25,2512.23145v1,Reservoir Computing inspired Matrix Multiplication-free Language Model,cl_nlp,1.0,2512.23145v1,0.2
+BM25,2510.22567v1,Semi-Supervised Learning under General Causal Models,stat_ml,1.0,2510.22567v1,0.5
+BM25,2512.24323v1,Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention,cv_vision,1.0,2512.24323v1,0.9
+BM25,2512.20724v1,SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention,cl_nlp,1.0,2512.20724v1,0.4
+BM25,2509.22486v1,Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks,ir_retrieval,1.0,2509.22486v1,0.4
+BM25,2511.08150v6,DiffuGR: Generative Document Retrieval with Diffusion Language Models,ir_retrieval,1.0,2511.08150v6,0.6
+BM25,2509.25783v6,Sharpness of Minima in Deep Matrix Factorization,stat_ml,1.0,2509.25783v6,0.2
+BM25,2509.03764v2,LLM-based Relevance Assessment for Web-Scale Search Evaluation at Pinterest,ir_retrieval,1.0,2509.03764v2,0.9
+BM25,2512.08609v2,CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models,ai_general,1.0,2512.08609v2,0.6
+BM25,2512.22189v1,Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification,lg_ml,2.0,2512.22190v1,0.4
+BM25,2512.06404v1,GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols,ai_general,1.0,2512.06404v1,1.0
+BM25,2512.04746v2,SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs,cl_nlp,1.0,2512.04746v2,0.1
+BM25,2512.18932v1,DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems,lg_ml,1.0,2512.18932v1,0.1
+BM25,2512.22249v1,Temporal Visual Semantics-Induced Human Motion Understanding with Large Language Models,lg_ml,1.0,2512.22249v1,0.0
+BM25,2512.05012v1,Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking,cl_nlp,1.0,2512.05012v1,0.0
+BM25,2601.11575v1,Concept Attractors in LLMs and their Applications,cl_nlp,1.0,2601.11575v1,0.3
+BM25,2512.18454v2,Out-of-Distribution Detection in Molecular Complexes via Diffusion Models for Irregular Graphs,lg_ml,1.0,2512.18454v2,0.5
+BM25,2512.25055v1,Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings,ai_general,1.0,2512.25055v1,0.7
+BM25,2512.19537v1,Event Extraction in Large Language Model,cl_nlp,1.0,2512.19537v1,0.5
+BM25,2512.18772v1,In-Context Audio Control of Video Diffusion Transformers,cv_vision,1.0,2512.18772v1,0.9
+BM25,2512.22903v1,Debugging Tabular Log as Dynamic Graphs,lg_ml,1.0,2512.22903v1,0.2
+BM25,2512.03762v2,RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design,ai_general,1.0,2512.03762v2,0.5
+BM25,2512.23572v1,Instruction-Following Evaluation of Large Vision-Language Models,cl_nlp,1.0,2512.23572v1,0.5
+BM25,2512.19114v1,HyperLoad: A Cross-Modality Enhanced Large Language Model-Based Framework for Green Data Center Cooling Load Prediction,lg_ml,1.0,2512.19114v1,0.1
+BM25,2512.18832v2,From Word to World: Can Large Language Models be Implicit Text-based World Models?,cl_nlp,17.0,2512.18865v1,0.4
+BM25,2510.01930v2,Precise Dynamics of Diagonal Linear Networks: A Unifying Analysis by Dynamical Mean-Field Theory,stat_ml,1.0,2510.01930v2,0.3
+BM25,2512.24903v1,"FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation",cv_vision,1.0,2512.24903v1,0.1
+BM25,2509.23128v1,"Conditional Risk Minimization with Side Information: A Tractable, Universal Optimal Transport Framework",stat_ml,1.0,2509.23128v1,0.9
+BM25,2512.17720v1,Mitigating Forgetting in Low Rank Adaptation,lg_ml,2.0,2512.09910v1,0.2
+BM25,2510.09857v1,MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterest,ir_retrieval,1.0,2510.09857v1,0.9
+BM25,2509.16780v2,Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook,ir_retrieval,1.0,2509.16780v2,0.9
+BM25,2512.12775v2,"Persistent Personas? Role-Playing, Instruction Following, and Safety in Extended Interactions",cl_nlp,1.0,2512.12775v2,0.7
+BM25,2512.20305v2,A Structured Nonparametric Framework for Nonlinear Accelerated Failure Time Models (KAN-AFT),stat_ml,1.0,2512.20305v2,0.4
+BM25,2512.07795v1,ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning,ai_general,1.0,2512.07795v1,0.5
+BM25,2508.20942v1,Transfer Learning for Classification under Decision Rule Drift with Application to Optimal Individualized Treatment Rule Estimation,stat_ml,1.0,2508.20942v1,0.7
+BM25,2510.12709v3,SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model,ir_retrieval,1.0,2510.12709v3,0.4
+BM25,2510.22063v3,Deep Ensembles for Epistemic Uncertainty: A Frequentist Perspective,stat_ml,1.0,2510.22063v3,0.4
+BM25,2512.17080v1,Interpretable Similarity of Synthetic Image Utility,cv_vision,1.0,2512.17080v1,0.3
+BM25,2512.19643v1,The Best of Both Worlds: Hybridizing Neural Operators and Solvers for Stable Long-Horizon Inference,lg_ml,1.0,2512.19643v1,0.5
+BM25,2512.23457v1,Replay Failures as Successes: Sample-Efficient Reinforcement Learning for Instruction Following,ai_general,1.0,2512.23457v1,0.2
+BM25,2512.15946v2,AIE4ML: An End-to-End Framework for Compiling Neural Networks for the Next Generation of AMD AI Engines,lg_ml,1.0,2512.15946v2,0.2
+BM25,2512.00313v1,Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System,ir_retrieval,9.0,2509.08919v1,1.0
+BM25,2512.24605v1,MoniRefer: A Real-world Large-scale Multi-modal Dataset based on Roadside Infrastructure for 3D Visual Grounding,cv_vision,1.0,2512.24605v1,0.9
+BM25,2512.08769v1,"A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows",ai_general,1.0,2512.08769v1,0.6
+BM25,2512.09487v1,RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning,cl_nlp,1.0,2512.09487v1,0.2
+BM25,2512.14851v1,Unreliable Uncertainty Estimates with Monte Carlo Dropout,lg_ml,2.0,2511.10446v2,0.1
+BM25,2510.12547v1,Universal Adaptive Environment Discovery,stat_ml,1.0,2510.12547v1,0.0
+BM25,2512.22392v1,iOSPointMapper: RealTime Pedestrian and Accessibility Mapping with Mobile AI,cv_vision,1.0,2512.22392v1,0.3
+BM25,2512.16386v1,Quantitative Verification of Fairness in Tree Ensembles,lg_ml,1.0,2512.16386v1,0.2
+BM25,2512.15298v1,ChatGPT and Gemini participated in the Korean College Scholastic Ability Test -- Earth Science I,ai_general,1.0,2512.15298v1,0.4
+BM25,2512.16698v1,Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning,ai_general,1.0,2512.16698v1,0.9
+BM25,2509.24095v2,Singleton-Optimized Conformal Prediction,stat_ml,1.0,2509.24095v2,0.8
+BM25,2601.00874v1,LLMize: A Framework for Large Language Model-Based Numerical Optimization,lg_ml,1.0,2601.00874v1,0.6
+BM25,2601.04202v1,TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation,cl_nlp,1.0,2601.04202v1,0.2
+BM25,2510.04508v1,MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations,ir_retrieval,1.0,2510.04508v1,0.8
+BM25,2511.02571v1,Average Precision at Cutoff k under Random Rankings: Expectation and Variance,ir_retrieval,1.0,2511.02571v1,0.0
+BM25,2512.14112v1,Optimizing Multi-Tier Supply Chain Ordering with a Hybrid Liquid Neural Network and Extreme Gradient Boosting Model,ai_general,1.0,2512.14112v1,0.2
+BM25,2512.18190v3,External Hippocampus: Topological Cognitive Maps for Guiding Large Language Model Reasoning,ai_general,1.0,2512.18190v3,0.4
+BM25,2509.19931v2,Documentation Retrieval Improves Planning Language Generation,ir_retrieval,1.0,2509.19931v2,0.8
+BM25,2511.04403v2,Online Bayesian Experimental Design for Partially Observed Dynamical Systems,stat_ml,1.0,2511.04403v2,0.6
+BM25,2509.12166v1,MMM: Clustering Multivariate Longitudinal Mixed-type Data,stat_ml,1.0,2509.12166v1,0.5
+BM25,2512.20028v1,DecoKAN: Interpretable Decomposition for Forecasting Cryptocurrency Market Dynamics,lg_ml,1.0,2512.20028v1,0.5
+BM25,2512.16912v3,"Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward",lg_ml,1.0,2512.16912v3,0.3
+BM25,2512.19995v3,Schoenfeld's Anatomy of Mathematical Reasoning by Language Models,cl_nlp,1.0,2512.19995v3,0.4
+BM25,2511.22253v1,UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries,ir_retrieval,1.0,2511.22253v1,0.5
+BM25,2512.24547v1,Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression,cv_vision,1.0,2512.24547v1,0.7
+BM25,2512.18241v1,SG-RIFE: Semantic-Guided Real-Time Intermediate Flow Estimation with Diffusion-Competitive Perceptual Quality,cv_vision,1.0,2512.18241v1,0.7
+BM25,2511.00217v1,Gradient Boosted Mixed Models: Flexible Joint Estimation of Mean and Variance Components for Clustered Data,stat_ml,1.0,2511.00217v1,0.6
+BM25,2512.15328v2,Thematic Dispersion in Arabic Applied Linguistics: A Bibliometric Analysis using Brookes' Measure,cl_nlp,1.0,2512.15328v2,0.8
+BM25,2512.14041v1,From Feature Interaction to Feature Generation: A Generative Paradigm of CTR Prediction Models,ir_retrieval,1.0,2512.14041v1,0.9
+BM25,2512.23028v1,An Architecture-Led Hybrid Report on Body Language Detection Project,cv_vision,3.0,2512.18057v1,0.6
+BM25,2511.09486v2,A general framework for adaptive nonparametric dimensionality reduction,stat_ml,1.0,2511.09486v2,0.6
+BM25,2512.20105v1,LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs,cv_vision,1.0,2512.20105v1,1.0
+BM25,2511.09577v1,Siegel Neural Networks,stat_ml,1.0,2511.09577v1,0.4
+BM25,2512.19424v1,CodeSimpleQA: Scaling Factuality in Code Large Language Models,cl_nlp,1.0,2512.19424v1,0.4
+BM25,2509.15432v1,SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models,ir_retrieval,1.0,2509.15432v1,0.7
+BM25,2512.14675v1,Beyond Lipschitz Continuity and Monotonicity: Fractal and Chaotic Activation Functions in Echo State Networks,lg_ml,1.0,2512.14675v1,0.5
+BM25,2512.17817v3,Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding,cv_vision,1.0,2512.17817v3,1.0
+BM25,2512.15926v3,DSO: Direct Steering Optimization for Bias Mitigation,lg_ml,1.0,2512.15926v3,0.0
+BM25,2512.04513v1,BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models,ai_general,1.0,2512.04513v1,0.0
+BM25,2509.26175v1,Spectral gap of Metropolis-within-Gibbs under log-concavity,stat_ml,1.0,2509.26175v1,0.9
+BM25,2512.16911v1,Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning,lg_ml,1.0,2512.16911v1,0.2
+BM25,2512.06710v1,Stochasticity in Agentic Evaluations: Quantifying Inconsistency with Intraclass Correlation,ai_general,1.0,2512.06710v1,0.4
+BM25,2509.19226v1,Neighbor Embeddings Using Unbalanced Optimal Transport Metrics,stat_ml,2.0,2511.19075v2,0.8
+BM25,2512.18254v1,Loom: Diffusion-Transformer for Interleaved Generation,cv_vision,1.0,2512.18254v1,0.4
+BM25,2509.10853v2,Variable Selection Using Relative Importance Rankings,stat_ml,1.0,2509.10853v2,0.2
+BM25,2512.08601v2,Heuristics for Combinatorial Optimization via Value-based Reinforcement Learning: A Unified Framework and Analysis,stat_ml,1.0,2512.08601v2,0.2
+BM25,2512.17303v1,EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance,cv_vision,1.0,2512.17303v1,0.5
+BM25,2512.19680v1,VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation,cv_vision,1.0,2512.19680v1,0.3
+BM25,2512.21545v1,EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal,cv_vision,1.0,2512.21545v1,0.9
+BM25,2510.22242v1,PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading,ir_retrieval,1.0,2510.22242v1,0.5
+BM25,2512.22439v3,SuperiorGAT: Graph Attention Networks for Sparse LiDAR Point Cloud Reconstruction in Autonomous Systems,cv_vision,1.0,2512.22439v3,0.9
+BM25,2512.24867v2,Encyclo-K: Evaluating LLMs with Dynamically Composed Knowledge Statements,cl_nlp,1.0,2512.24867v2,0.3
+BM25,2512.24663v1,Renormalization Group Guided Tensor Network Structure Search,cv_vision,1.0,2512.24663v1,0.0
+BM25,2512.18337v2,Towards Efficient Agents: A Co-Design of Inference Architecture and System,cl_nlp,,2512.18126v1,0.2
+BM25,2512.19728v2,Hard Negative Sample-Augmented DPO Post-Training for Small Language Models,lg_ml,3.0,2511.08029v2,0.1
+BM25,2602.22219v1,Comparative Analysis of Neural Retriever-Reranker Pipelines for Retrieval-Augmented Generation over Knowledge Graphs in E-commerce Applications,ir_retrieval,1.0,2602.22219v1,0.6
+BM25,2512.17477v1,Deep Learning-Based Surrogate Creep Modelling in Inconel 625: A High-Temperature Alloy Study,lg_ml,1.0,2512.17477v1,0.5
+BM25,2512.20021v1,Gaussian Process Assisted Meta-learning for Image Classification and Object Detection Models,stat_ml,6.0,2512.23176v1,0.0
+BM25,2509.26262v1,Analyzing BEV Suitability and Charging Strategies Using Italian Driving Data,ir_retrieval,1.0,2509.26262v1,0.1
+BM25,2510.15012v1,From Universal Approximation Theorem to Tropical Geometry of Multi-Layer Perceptrons,stat_ml,1.0,2510.15012v1,0.8
+BM25,2512.23647v1,Nested Browser-Use Learning for Agentic Information Seeking,cl_nlp,1.0,2512.23647v1,0.2
+BM25,2512.04868v1,SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs,cl_nlp,1.0,2512.04868v1,0.2
+BM25,2512.15274v1,"Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning",cl_nlp,1.0,2512.15274v1,0.0
+BM25,2511.16943v2,RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers,ir_retrieval,1.0,2511.16943v2,0.7
+BM25,2512.16717v1,Phishing Detection System: An Ensemble Approach Using Character-Level CNN and Feature Engineering,lg_ml,1.0,2512.16717v1,0.1
+BM25,2512.09458v1,Architectures for Building Agentic AI,ai_general,,2512.04822v1,0.9
+BM25,2510.15013v1,Reliable data clustering with Bayesian community detection,stat_ml,1.0,2510.15013v1,0.8
+BM25,2512.04488v2,Persona-based Multi-Agent Collaboration for Brainstorming,ai_general,1.0,2512.04488v2,0.5
+BM25,2512.16648v1,Exploiting Radio Frequency Fingerprints for Device Identification: Tackling Cross-receiver Challenges in the Source-data-free Scenario,lg_ml,1.0,2512.16648v1,0.4
+BM25,2512.19683v2,From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs,cv_vision,1.0,2512.19683v2,0.7
+BM25,2512.20723v1,From artificial to organic: Rethinking the roots of intelligence for digital health,ai_general,1.0,2512.20723v1,0.7
+BM25,2512.21015v2,FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing,cv_vision,1.0,2512.21015v2,0.9
+BM25,2512.22437v2,EmoCtrl: Controllable Emotional Image Content Generation,cv_vision,1.0,2512.22437v2,0.4
+BM25,2512.19275v1,Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation,cv_vision,1.0,2512.19275v1,0.9
+BM25,2510.10245v2,Kernel Treatment Effects with Adaptively Collected Data,stat_ml,1.0,2510.10245v2,0.9
+BM25,2512.16282v2,CALM: A CKA-Guided Adaptive Layer-Wise Modularization Framework for LLM Quantization,lg_ml,1.0,2512.16282v2,0.2
+BM25,2512.16913v1,Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation,cv_vision,2.0,2512.22819v1,0.8
+BM25,2512.13716v1,ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making,ai_general,1.0,2512.13716v1,0.5
+BM25,2509.16627v1,Conditional Multidimensional Scaling with Incomplete Conditioning Data,stat_ml,1.0,2509.16627v1,0.3
+BM25,2512.18475v2,Research on a hybrid LSTM-CNN-Attention model for text-based web content classification,cl_nlp,1.0,2512.18475v2,0.2
+BM25,2512.18738v1,AMLID: An Adaptive Multispectral Landmine Identification Dataset for Drone-Based Detection,cv_vision,1.0,2512.18738v1,0.7
+BM25,2510.20472v1,Concentration and excess risk bounds for imbalanced classification with synthetic oversampling,stat_ml,1.0,2510.20472v1,0.7
+BM25,2512.14617v1,Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes,lg_ml,1.0,2512.14617v1,0.5
+BM25,2509.24632v1,UniDex: Rethinking Search Inverted Indexing with Unified Semantic Modeling,ir_retrieval,1.0,2509.24632v1,0.8
+BM25,2512.21076v1,Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions,ir_retrieval,1.0,2512.21076v1,0.5
+BM25,2512.11081v1,Provable Recovery of Locally Important Signed Features and Interactions from Random Forest,stat_ml,4.0,2512.07888v1,0.5
+BM25,2512.21482v1,LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis,ai_general,1.0,2512.21482v1,0.3
+BM25,2509.22553v1,"Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement",stat_ml,1.0,2509.22553v1,0.4
+BM25,2512.08131v1,Universal Adversarial Suffixes for Language Models Using Reinforcement Learning with Calibrated Reward,cl_nlp,2.0,2512.08123v1,0.1
+BM25,2512.10501v2,Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation,ai_general,1.0,2512.10501v2,0.5
+BM25,2509.22325v1,Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?,ir_retrieval,1.0,2509.22325v1,0.8
+BM25,2510.04421v2,Learning Survival Models with Right-Censored Reporting Delays,stat_ml,1.0,2510.04421v2,0.5
+BM25,2511.05493v1,"GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",ir_retrieval,1.0,2511.05493v1,0.2
+BM25,2512.23947v1,Improved Balanced Classification with Theoretically Grounded Loss Functions,lg_ml,1.0,2512.23947v1,0.3
+BM25,2511.05991v1,Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance,ir_retrieval,1.0,2511.05991v1,0.6
+BM25,2512.19456v1,Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations,cl_nlp,1.0,2512.19456v1,0.5
+BM25,2512.20145v1,Retrieval-augmented Prompt Learning for Pre-trained Foundation Models,cl_nlp,1.0,2512.20145v1,0.2
+BM25,2512.09386v1,CONCUR: A Framework for Continual Constrained and Unconstrained Routing,cl_nlp,1.0,2512.09386v1,0.2
+BM25,2512.21775v1,Compliance Rating Scheme: A Data Provenance Framework for Generative AI Datasets,ai_general,1.0,2512.21775v1,0.5
+BM25,2512.13857v2,EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery,ai_general,1.0,2512.13857v2,0.3
+BM25,2512.21626v1,Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing,ai_general,1.0,2512.21626v1,0.0
+BM25,2601.00816v1,MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback,ai_general,1.0,2601.00816v1,0.4
+BM25,2512.04987v1,Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction,cl_nlp,1.0,2512.04987v1,0.3
+BM25,2512.21204v2,SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation,cl_nlp,1.0,2512.21204v2,0.3
+BM25,2512.15259v1,SynGP500: A Clinically-Grounded Synthetic Dataset of Australian General Practice Medical Notes,cl_nlp,1.0,2512.15259v1,0.3
+BM25,2512.19438v1,MT-Mark: Rethinking Image Watermarking via Mutual-Teacher Collaboration with Adaptive Feature Modulation,cv_vision,1.0,2512.19438v1,0.5
+BM25,2512.20898v1,DGSAN: Dual-Graph Spatiotemporal Attention Network for Pulmonary Nodule Malignancy Prediction,cv_vision,1.0,2512.20898v1,0.6
+BM25,2512.21127v1,A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care,ai_general,1.0,2512.21127v1,0.4
+BM25,2512.17058v2,Universal consistency of the $k$-NN rule in metric spaces and Nagata dimension. III,lg_ml,1.0,2512.17058v2,0.2
+BM25,2510.00463v4,On the Adversarial Robustness of Learning-based Conformal Novelty Detection,stat_ml,1.0,2510.00463v4,0.3
+BM25,2512.16295v1,OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models,ai_general,1.0,2512.16295v1,0.3
+BM25,2512.18247v1,Towards Ancient Plant Seed Classification: A Benchmark Dataset and Baseline Model,cv_vision,1.0,2512.18247v1,0.4
+BM25,2510.08948v3,SHERLOCK:Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management,ir_retrieval,1.0,2510.08948v3,0.5
+BM25,2509.07594v1,ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction,ir_retrieval,1.0,2509.07594v1,0.9
+BM25,2512.17206v1,Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs,cv_vision,1.0,2512.17206v1,0.2
+BM25,2512.15556v1,An Empirical Study on Chinese Character Decomposition in Multiword Expression-Aware Neural Machine Translation,cl_nlp,1.0,2512.15556v1,0.8
+BM25,2512.10691v1,Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning,ai_general,2.0,2512.16145v2,0.2
+BM25,2510.07784v1,PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations,ir_retrieval,1.0,2510.07784v1,0.3
+BM25,2512.15176v1,"DEER: Draft with Diffusion, Verify with Autoregressive Models",lg_ml,1.0,2512.15176v1,0.3
+BM25,2510.26407v1,Barlow Twins for Sequential Recommendation,ir_retrieval,1.0,2510.26407v1,0.7
+BM25,2512.14179v1,A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs,cl_nlp,1.0,2512.14179v1,0.4
+BM25,2512.10313v2,EpiPlanAgent: Agentic Automated Epidemic Response Planning,ai_general,1.0,2512.10313v2,0.5
+BM25,2512.17969v1,Convolutional-neural-operator-based transfer learning for solving PDEs,lg_ml,1.0,2512.17969v1,0.6
+BM25,2509.18560v1,"Understand your Users, An Ensemble Learning Framework for Natural Noise Filtering in Recommender Systems",ir_retrieval,1.0,2509.18560v1,0.9
+BM25,2512.22304v1,PortionNet: Distilling 3D Geometric Knowledge for Food Nutrition Estimation,cv_vision,1.0,2512.22304v1,0.9
+BM25,2512.06883v2,Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation,ir_retrieval,1.0,2512.06883v2,0.4
+BM25,2510.21242v2,Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation,ir_retrieval,1.0,2510.21242v2,0.9
+BM25,2511.16326v3,ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning,ir_retrieval,1.0,2511.16326v3,0.3
+BM25,2512.09944v3,Echo-CoPilot: A Multiple-Perspective Agentic Framework for Reliable Echocardiography Interpretation,ai_general,1.0,2512.09944v3,0.5
+BM25,2512.22378v1,Towards Efficient Post-Training via Fourier-Driven Adapter Architectures,cl_nlp,1.0,2512.22378v1,0.1
+BM25,2512.23767v1,Enabling Physical AI at the Edge: Hardware-Accelerated Recovery of System Dynamics,lg_ml,1.0,2512.23767v1,0.3
+BM25,2512.22854v2,ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning,cv_vision,1.0,2512.22854v2,0.9
+BM25,2512.22626v1,Envision: Embodied Visual Planning via Goal-Imagery Video Diffusion,cv_vision,1.0,2512.22626v1,0.8
+BM25,2512.21708v1,MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles,cl_nlp,1.0,2512.21708v1,0.3
+BM25,2512.20854v2,How important is Recall for Measuring Retrieval Quality?,cl_nlp,1.0,2512.20854v2,0.2
+BM25,2512.24195v1,CorGi: Contribution-Guided Block-Wise Interval Caching for Training-Free Acceleration of Diffusion Transformers,cv_vision,1.0,2512.24195v1,0.3
+BM25,2512.03057v1,A note on the impossibility of conditional PAC-efficient reasoning in large language models,stat_ml,1.0,2512.03057v1,0.7
+BM25,2510.01553v3,IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data,ir_retrieval,1.0,2510.01553v3,0.4
+BM25,2512.16883v1,AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning,cl_nlp,1.0,2512.16883v1,0.1
+BM25,2509.22459v4,Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs),stat_ml,1.0,2509.22459v4,0.1
+BM25,2509.15380v2,Efficient and Versatile Model for Multilingual Information Retrieval of Islamic Text: Development and Deployment in Real-World Scenarios,ir_retrieval,1.0,2509.15380v2,0.5
+BM25,2512.20260v5,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,cv_vision,1.0,2512.20260v5,0.8
+BM25,2512.04895v1,Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems,ai_general,1.0,2512.04895v1,0.6
+BM25,2512.05156v2,Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations,ai_general,1.0,2512.05156v2,0.2
+BM25,2512.23565v5,RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature,cv_vision,1.0,2512.23565v5,0.0
+BM25,2512.23977v1,Causify DataFlow: A Framework For High-performance Machine Learning Stream Computing,lg_ml,2.0,2512.16676v1,0.5
+BM25,2510.14626v1,GemiRec: Interest Quantization and Generation for Multi-Interest Recommendation,ir_retrieval,1.0,2510.14626v1,1.0
+BM25,2512.20893v1,Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks,lg_ml,1.0,2512.20893v1,0.6
+BM25,2512.21804v1,S&P 500 Stock's Movement Prediction using CNN,cv_vision,1.0,2512.21804v1,0.0
+BM25,2512.19486v1,Dynamic Stream Network for Combinatorial Explosion Problem in Deformable Medical Image Registration,cv_vision,1.0,2512.19486v1,0.8
+BM25,2512.16742v1,Machine Learning Algorithms: Detection Official Hajj and Umrah Travel Agency Based on Text and Metadata Analysis,lg_ml,1.0,2512.16742v1,0.3
+BM25,2512.14693v3,Universal Reasoning Model,ai_general,1.0,2512.14693v3,0.3
+BM25,2512.23512v2,UniHetero: Could Generation Enhance Understanding for Vision-Language-Model at Large Data Scale?,cl_nlp,1.0,2512.23512v2,0.1
+BM25,2512.22322v2,SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents,cl_nlp,1.0,2512.22322v2,0.3
+BM25,2512.17296v2,Towards Pixel-Wise Anomaly Location for High-Resolution PCBA via Self-Supervised Image Reconstruction,cv_vision,1.0,2512.17296v2,0.9
+BM25,2512.04545v1,EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion,cl_nlp,1.0,2512.04545v1,0.3
+BM25,2512.05576v1,CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning,ai_general,1.0,2512.05576v1,0.4
+BM25,2512.21625v1,Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards,cl_nlp,14.0,2512.16301v3,0.3
+BM25,2512.17145v2,Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty,ai_general,1.0,2512.17145v2,0.0
+BM25,2510.13590v1,RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge,ir_retrieval,1.0,2510.13590v1,0.7
+BM25,2512.11505v1,BAID: A Benchmark for Bias Assessment of AI Detectors,ai_general,1.0,2512.11505v1,0.3
+BM25,2512.23436v2,Fuzzy-Logic and Deep Learning for Environmental Condition-Aware Road Surface Classification,cv_vision,1.0,2512.23436v2,0.3
+BM25,2512.21670v1,The Deepfake Detective: Interpreting Neural Forensics Through Sparse Features and Manifolds,cv_vision,1.0,2512.21670v1,0.4
+BM25,2512.24927v1,Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach,stat_ml,1.0,2512.24927v1,0.7
+BM25,2601.02386v1,Tree of Preferences for Diversified Recommendation,ir_retrieval,1.0,2601.02386v1,0.9
+BM25,2512.09662v1,Can LLMs Evaluate What They Cannot Annotate? Revisiting LLM Reliability in Hate Speech Detection,cl_nlp,1.0,2512.09662v1,0.7
+BM25,2510.21028v1,Communication Platform for Non-verbal Autistic children in Oman using Android mobile,ir_retrieval,1.0,2510.21028v1,0.1
+BM25,2512.20666v1,Dominating vs. Dominated: Generative Collapse in Diffusion Models,lg_ml,1.0,2512.20666v1,0.1
+BM25,2509.17251v1,Risk Comparisons in Linear Regression: Implicit Regularization Dominates Explicit Regularization,stat_ml,1.0,2509.17251v1,0.9
+BM25,2512.20950v1,MultiMind at SemEval-2025 Task 7: Crosslingual Fact-Checked Claim Retrieval via Multi-Source Alignment,cl_nlp,1.0,2512.20950v1,0.3
+BM25,2510.13445v1,Robust Minimax Boosting with Performance Guarantees,stat_ml,1.0,2510.13445v1,0.9
+BM25,2511.05498v1,Biomedical Hypothesis Explainability with Graph-Based Context Retrieval,ir_retrieval,1.0,2511.05498v1,0.3
+BM25,2512.06615v1,Latent Nonlinear Denoising Score Matching for Enhanced Learning of Structured Distributions,stat_ml,1.0,2512.06615v1,0.8
+BM25,2511.04901v1,Association via Entropy Reduction,ir_retrieval,8.0,2512.24838v1,0.2
+BM25,2512.22223v1,ReGAIN: Retrieval-Grounded AI Framework for Network Traffic Analysis,lg_ml,1.0,2512.22223v1,0.7
+BM25,2512.14085v1,Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study,cl_nlp,1.0,2512.14085v1,0.4
+BM25,2512.22293v1,Learning from Negative Examples: Why Warning-Framed Training Data Teaches What It Warns Against,lg_ml,1.0,2512.22293v1,0.3
+BM25,2509.05106v1,Spectral Algorithms in Misspecified Regression: Convergence under Covariate Shift,stat_ml,1.0,2509.05106v1,1.0
+BM25,2511.15634v1,Rényi Differential Privacy for Heavy-Tailed SDEs via Fractional Poincaré Inequalities,stat_ml,1.0,2511.15634v1,0.7
+BM25,2512.20113v3,Multi-Sensor Attention Networks for Automated Subsurface Delamination Detection in Concrete Bridge Decks,cv_vision,1.0,2512.20113v3,0.1
+BM25,2512.20002v3,LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models,lg_ml,1.0,2512.20002v3,0.4
+BM25,2511.06803v1,Learning to Fast Unrank in Collaborative Filtering Recommendation,ir_retrieval,1.0,2511.06803v1,1.0
+BM25,2512.09238v2,Training-free Context-adaptive Attention for Efficient Long Context Modeling,cl_nlp,1.0,2512.09238v2,0.6
+BM25,2512.24733v1,BIOME-Bench: A Benchmark for Biomolecular Interaction Inference and Multi-Omics Pathway Mechanism Elucidation from Scientific Literature,cl_nlp,1.0,2512.24733v1,0.3
+BM25,2512.22102v1,Explainable Multimodal Regression via Information Decomposition,lg_ml,1.0,2512.22102v1,0.2
+BM25,2512.01820v1,Dimension-free error estimate for diffusion model and optimal scheduling,stat_ml,1.0,2512.01820v1,0.3
+BM25,2512.16701v1,Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences,ai_general,1.0,2512.16701v1,0.9
+BM25,2512.14879v1,Entropy-Reservoir Bregman Projection: An Information-Geometric Unification of Model Collapse,lg_ml,1.0,2512.14879v1,0.2
+BM25,2512.16378v4,Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs,cl_nlp,1.0,2512.16378v4,0.3
+BM25,2512.10433v1,Targeted Data Protection for Diffusion Model by Matching Training Trajectory,ai_general,1.0,2512.10433v1,0.0
+BM25,2510.22298v1,MetaCaDI: A Meta-Learning Framework for Scalable Causal Discovery with Unknown Interventions,stat_ml,1.0,2510.22298v1,0.6
+BM25,2512.19246v1,From Black-Box Tuning to Guided Optimization via Hyperparameters Interaction Analysis,lg_ml,1.0,2512.19246v1,0.3
+BM25,2512.19091v1,"Auditing Significance, Metric Choice, and Demographic Fairness in Medical AI Challenges",cv_vision,3.0,2512.07608v1,0.0
+BM25,2512.15267v1,Distillation-Guided Structural Transfer for Continual Learning Beyond Sparse Distributed Memory,lg_ml,1.0,2512.15267v1,0.3
+BM25,2512.18553v1,Hierarchical Bayesian Framework for Multisource Domain Adaptation,cv_vision,1.0,2512.18553v1,0.1
+BM25,2512.15140v1,Generalization and Feature Attribution in Machine Learning Models for Crop Yield and Anomaly Prediction in Germany,lg_ml,1.0,2512.15140v1,0.3
+BM25,2512.17091v2,"Learning to Plan, Planning to Learn: Adaptive Hierarchical RL-MPC for Sample-Efficient Decision Making",lg_ml,1.0,2512.17091v2,0.2
+BM25,2512.21527v1,Generative Actor Critic,lg_ml,6.0,2512.15430v1,0.3
+BM25,2512.17838v1,ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges,cv_vision,1.0,2512.17838v1,0.4
+BM25,2512.24997v1,Classifying long legal documents using short random chunks,cl_nlp,1.0,2512.24997v1,0.3
+BM25,2512.13559v1,Verifying Rumors via Stance-Aware Structural Modeling,cl_nlp,1.0,2512.13559v1,0.3
+BM25,2511.03125v2,Provable Accelerated Bayesian Optimization with Knowledge Transfer,stat_ml,1.0,2511.03125v2,0.6
+BM25,2512.11187v1,Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling,ai_general,1.0,2512.11187v1,0.2
+BM25,2512.23988v1,Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process,cl_nlp,1.0,2512.23988v1,0.4
+BM25,2510.16657v2,Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence,stat_ml,1.0,2510.16657v2,0.1
+BM25,2512.23684v1,Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing,cl_nlp,1.0,2512.23684v1,0.3
+BM25,2512.24460v1,IELTS Writing Revision Platform with Automated Essay Scoring and Adaptive Feedback,cl_nlp,1.0,2512.24460v1,0.5
+BM25,2509.04820v1,Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation,ir_retrieval,2.0,2511.20227v1,0.7
+BM25,2512.05925v1,To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis,ai_general,1.0,2512.05925v1,0.3
+BM25,2512.16409v1,Geometric Laplace Neural Operator,lg_ml,1.0,2512.16409v1,0.8
+BM25,2512.14908v5,ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs,lg_ml,1.0,2512.14908v5,0.6
+BM25,2601.08843v1,"Rubric-Conditioned LLM Grading: Alignment, Uncertainty, and Robustness",cl_nlp,1.0,2601.08843v1,0.4
+BM25,2511.18750v1,On Instability of Minimax Optimal Optimism-Based Bandit Algorithms,stat_ml,1.0,2511.18750v1,0.9
+BM25,2512.16465v2,cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution,ai_general,1.0,2512.16465v2,0.5
+BM25,2512.23222v1,Bridging Your Imagination with Audio-Video Generation via a Unified Director,cv_vision,1.0,2512.23222v1,0.9
+BM25,2512.18618v1,Assignment-Routing Optimization: Solvers for Problems Under Constraints,ai_general,1.0,2512.18618v1,0.4
+BM25,2509.00990v1,Hybrid Topic-Semantic Labeling and Graph Embeddings for Unsupervised Legal Document Clustering,stat_ml,1.0,2509.00990v1,0.0
+BM25,2512.17820v2,Exploiting ID-Text Complementarity via Ensembling for Sequential Recommendation,lg_ml,1.0,2512.17820v2,0.0
+BM25,2512.21451v2,An approach to Fisher-Rao metric for infinite dimensional non-parametric information geometry,stat_ml,1.0,2512.21451v2,0.7
+BM25,2510.23985v1,Score-based constrained generative modeling via Langevin diffusions with boundary conditions,stat_ml,1.0,2510.23985v1,0.4
+BM25,2512.24713v2,FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference,lg_ml,1.0,2512.24713v2,0.4
+BM25,2512.20298v3,Patterns vs. Patients: Evaluating LLMs against Mental Health Professionals on Personality Disorder Diagnosis through First-Person Narratives,cl_nlp,1.0,2512.20298v3,0.4
+BM25,2511.06479v1,Bridging Theory and Practice: A Stochastic Learning-Optimization Model for Resilient Automotive Supply Chains,stat_ml,1.0,2511.06479v1,0.5
+BM25,2512.06169v1,Morphologically-Informed Tokenizers for Languages with Non-Concatenative Morphology: A case study of Yoloxóchtil Mixtec ASR,cl_nlp,1.0,2512.06169v1,0.7
+BM25,2512.22979v3,PoseStreamer: A Multi-modal Framework for 3D Tracking of Unseen Moving Objects,cv_vision,1.0,2512.22979v3,0.9
+BM25,2512.20563v2,LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving,cv_vision,1.0,2512.20563v2,0.4
+BM25,2512.19960v1,FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification,ai_general,1.0,2512.19960v1,0.1
+BM25,2512.10322v2,User-Feedback-Driven Adaptation for Vision-and-Language Navigation,ai_general,1.0,2512.10322v2,0.3
+BM25,2512.07611v1,"Comparative Analysis and Parametric Tuning of PPO, GRPO, and DAPO for LLM Reasoning Enhancement",ai_general,1.0,2512.07611v1,0.2
+BM25,2512.09912v1,Supervised learning pays attention,stat_ml,1.0,2512.09912v1,0.0
+BM25,2510.01098v1,"Theory of Scaling Laws for In-Context Regression: Depth, Width, Context and Time",stat_ml,1.0,2510.01098v1,0.4
+BM25,2512.18857v3,CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning,ai_general,1.0,2512.18857v3,0.5
+BM25,2512.24381v2,Tubular Riemannian Laplace Approximations for Bayesian Neural Networks,lg_ml,1.0,2512.24381v2,0.4
+BM25,2511.16288v1,Spectral Identifiability for Interpretable Probe Geometry,stat_ml,1.0,2511.16288v1,0.6
+BM25,2512.17098v2,Predictive Modeling of Maritime Radar Data Using Transformer Architecture,cv_vision,1.0,2512.17098v2,0.5
+BM25,2512.23165v2,Evaluating Parameter Efficient Methods for RLVR,lg_ml,1.0,2512.23165v2,0.4
+BM25,2510.18332v1,"Parametrising the Inhomogeneity Inducing Capacity of a Training Set, and its Impact on Supervised Learning",stat_ml,1.0,2510.18332v1,0.4
+BM25,2512.05647v2,A Greek Government Decisions Dataset for Public-Sector Analysis and Insight,cl_nlp,1.0,2512.05647v2,0.3
+BM25,2601.00844v1,Value-guided action planning with JEPA world models,lg_ml,1.0,2601.00844v1,0.1
+BM25,2512.18980v1,OPBO: Order-Preserving Bayesian Optimization,lg_ml,1.0,2512.18980v1,0.1
+BM25,2512.14051v1,OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value,ai_general,2.0,2601.09733v1,0.1
+BM25,2512.07407v2,Training Language Models to Use Prolog as a Tool,cl_nlp,1.0,2512.07407v2,0.1
+BM25,2510.07644v1,ISMIE: A Framework to Characterize Information Seeking in Modern Information Environments,ir_retrieval,1.0,2510.07644v1,0.3
+BM25,2512.23353v2,ISOPO: Proximal policy gradients without pi-old,lg_ml,1.0,2512.23353v2,0.8
+BM25,2512.24386v1,RedunCut: Measurement-Driven Sampling and Accuracy Performance Modeling for Low-Cost Live Video Analytics,cv_vision,1.0,2512.24386v1,0.4
+BM25,2510.09167v2,Hierarchical Semantic RL: Tackling the Problem of Dynamic Action Space for RL-based Recommendations,ir_retrieval,1.0,2510.09167v2,0.2
+BM25,2509.01551v1,Cloud-Device Collaborative Agents for Sequential Recommendation,ir_retrieval,1.0,2509.01551v1,0.8
+BM25,2510.07621v1,Retentive Relevance: Capturing Long-Term User Value in Recommendation Systems,ir_retrieval,1.0,2510.07621v1,1.0
+BM25,2511.03330v1,Discourse-Aware Scientific Paper Recommendation via QA-Style Summarization and Multi-Level Contrastive Learning,ir_retrieval,1.0,2511.03330v1,0.5
+BM25,2511.05885v3,An item is worth one token in Multimodal Large Language Models-based Sequential Recommendation,ir_retrieval,,2510.22049v3,1.0
+BM25,2512.04416v2,DataGovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows,ai_general,1.0,2512.04416v2,1.0
+BM25,2601.00828v1,Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis,ai_general,1.0,2601.00828v1,0.2
+BM25,2601.00138v2,Explicit Abstention Knobs for Predictable Reliability in Video Question Answering,ai_general,2.0,2509.11208v2,0.0
+BM25,2510.22667v1,Block Coordinate Descent for Neural Networks Provably Finds Global Minima,stat_ml,1.0,2510.22667v1,0.6
+BM25,2512.15038v2,LADY: Linear Attention for Autonomous Driving Efficiency without Transformers,ai_general,1.0,2512.15038v2,0.1
+BM25,2511.21915v1,"Algorithms and Scientific Software for Quasi-Monte Carlo, Fast Gaussian Process Regression, and Scientific Machine Learning",stat_ml,1.0,2511.21915v1,0.8
+BM25,2512.21170v1,A Unified Framework for EEG Seizure Detection Using Universum-Integrated Generalized Eigenvalues Proximal Support Vector Machine,lg_ml,1.0,2512.21170v1,0.4
+BM25,2512.22471v5,The Bayesian Geometry of Transformer Attention,lg_ml,12.0,2512.22473v5,0.3
+BM25,2509.03696v1,LLMs for estimating positional bias in logged interaction data,ir_retrieval,1.0,2509.03696v1,0.2
+BM25,2512.21685v1,RIPCN: A Road Impedance Principal Component Network for Probabilistic Traffic Flow Forecasting,lg_ml,1.0,2512.21685v1,0.5
+BM25,2512.22802v1,ReDiF: Reinforced Distillation for Few Step Diffusion,lg_ml,3.0,2512.05251v2,0.2
+BM25,2512.12856v1,Forgetful but Faithful: A Cognitive Memory Architecture and Benchmark for Privacy-Aware Generative Agents,ai_general,1.0,2512.12856v1,0.3
+BM25,2509.04751v1,Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms,ir_retrieval,1.0,2509.04751v1,0.8
+BM25,2512.07090v1,Leveraging KV Similarity for Online Structured Pruning in LLMs,cl_nlp,1.0,2512.07090v1,0.3
+BM25,2509.02227v1,Application Of Large Language Models For The Extraction Of Information From Particle Accelerator Technical Documentation,ir_retrieval,1.0,2509.02227v1,0.4
+BM25,2512.13607v2,Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models,cl_nlp,1.0,2512.13607v2,0.3
+BM25,2512.19012v2,DramaBench: A Six-Dimensional Evaluation Framework for Drama Script Continuation,cl_nlp,1.0,2512.19012v2,0.2
+BM25,2509.04694v1,Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems,ir_retrieval,1.0,2509.04694v1,1.0
+BM25,2509.25494v1,On-Premise AI for the Newsroom: Evaluating Small Language Models for Investigative Document Search,ir_retrieval,1.0,2509.25494v1,0.7
+BM25,2512.16650v1,Prefix Probing: Lightweight Harmful Content Detection for Large Language Models,ai_general,1.0,2512.16650v1,0.3
+BM25,2510.13371v1,MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation,ir_retrieval,1.0,2510.13371v1,0.3
+BM25,2510.19020v2,Calibrated Principal Component Regression,stat_ml,1.0,2510.19020v2,0.7
+BM25,2512.22601v1,"Tyee: A Unified, Modular, and Fully-Integrated Configurable Toolkit for Intelligent Physiological Health Care",ai_general,1.0,2512.22601v1,0.4
+BM25,2512.16183v2,A Domain-Adapted Pipeline for Structured Information Extraction from Police Incident Announcements on Social Media,cl_nlp,1.0,2512.16183v2,0.6
+BM25,2512.22234v2,DiRL: An Efficient Post-Training Framework for Diffusion Language Models,lg_ml,1.0,2512.22234v2,0.1
+BM25,2512.22218v1,"Towards Signboard-Oriented Visual Question Answering: ViSignVQA Dataset, Method and Benchmark",cv_vision,1.0,2512.22218v1,0.4
+BM25,2512.21459v1,CCAD: Compressed Global Feature Conditioned Anomaly Detection,cv_vision,1.0,2512.21459v1,0.5
+BM25,2512.11421v1,Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance,ai_general,1.0,2512.11421v1,0.2
+BM25,2512.00979v1,An Approach to Variable Clustering: K-means in Transposed Data and its Relationship with Principal Component Analysis,stat_ml,1.0,2512.00979v1,0.7
+BM25,2601.04200v1,Attribute-Aware Controlled Product Generation with LLMs for E-commerce,cl_nlp,1.0,2601.04200v1,0.0
+BM25,2512.12742v2,A Novel Framework Using Variational Inference with Normalizing Flows to Train Transport Reversible Jump Proposals,stat_ml,1.0,2512.12742v2,1.0
+BM25,2512.13979v1,ReflCtrl: Controlling LLM Reflection via Representation Engineering,ai_general,1.0,2512.13979v1,0.6
+BM25,2512.20745v3,AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent,ai_general,1.0,2512.20745v3,0.5
+BM25,2512.21915v1,Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs,lg_ml,1.0,2512.21915v1,0.4
+BM25,2512.19019v1,Optimizer Dynamics at the Edge of Stability with Differential Privacy,lg_ml,1.0,2512.19019v1,0.3
+BM25,2512.05162v1,How to Tame Your LLM: Semantic Collapse in Continuous Systems,stat_ml,4.0,2512.21616v1,0.1
+BM25,2512.05365v1,MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare,ai_general,1.0,2512.05365v1,0.9
+BM25,2512.18755v1,MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking,ai_general,1.0,2512.18755v1,0.1
+BM25,2512.14576v1,"Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies",cl_nlp,2.0,2512.10630v1,0.8
+BM25,2601.00905v1,Evaluating Contextual Intelligence in Recyclability: A Comprehensive Study of Image-Based Reasoning Systems,cv_vision,1.0,2601.00905v1,0.1
+BM25,2512.23232v1,SURE Guided Posterior Sampling: Trajectory Correction for Diffusion-Based Inverse Problems,cv_vision,1.0,2512.23232v1,0.3
+BM25,2512.15335v1,Bits for Privacy: Evaluating Post-Training Quantization via Membership Inference,lg_ml,1.0,2512.15335v1,0.6
+BM25,2601.04212v1,TrueBrief: Faithful Summarization through Small Language Models,cl_nlp,1.0,2601.04212v1,0.7
+BM25,2601.09723v1,"SagaScale: A Realistic, Scalable, and High-Quality Long-Context Benchmark Built from Full-Length Novels",cl_nlp,1.0,2601.09723v1,0.4
+BM25,2509.22467v2,CausalKANs: interpretable treatment effect estimation with Kolmogorov-Arnold networks,stat_ml,1.0,2509.22467v2,0.4
+BM25,2512.19543v1,Algerian Dialect,cl_nlp,1.0,2512.19543v1,0.3
+BM25,2512.11469v2,"Three methods, one problem: Classical and AI approaches to no-three-in-line",ai_general,1.0,2512.11469v2,0.2
+BM25,2512.16718v1,"Polyharmonic Spline Packages: Composition, Efficient Procedures for Computation and Differentiation",lg_ml,1.0,2512.16718v1,0.7
+BM25,2512.15120v1,Automatic Reward Shaping from Multi-Objective Human Heuristics,lg_ml,1.0,2512.15120v1,0.2
+BM25,2512.13070v1,M-GRPO: Stabilizing Self-Supervised Reinforcement Learning for Large Language Models with Momentum-Anchored Policy Optimization,ai_general,1.0,2512.13070v1,0.1
+BM25,2512.23043v1,Mechanistic Analysis of Circuit Preservation in Federated Learning,lg_ml,1.0,2512.23043v1,0.6
+BM25,2510.03929v2,Self-Speculative Masked Diffusions,stat_ml,1.0,2510.03929v2,0.2
+BM25,2512.17227v1,Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning,cv_vision,1.0,2512.17227v1,0.4
+BM25,2512.20562v2,Shallow Neural Networks Learn Low-Degree Spherical Polynomials with Feature Learning by Learnable Channel Attention,stat_ml,1.0,2512.20562v2,0.2
+BM25,2512.23808v1,MiMo-Audio: Audio Language Models are Few-Shot Learners,cl_nlp,1.0,2512.23808v1,0.5
+BM25,2512.15906v2,Darth Vecdor: An Open-Source System for Generating Knowledge Graphs Through Large Language Model Queries,ai_general,1.0,2512.15906v2,0.2
+BM25,2511.10919v1,Heterogeneous Multisource Transfer Learning via Model Averaging for Positive-Unlabeled Data,stat_ml,1.0,2511.10919v1,0.3
+BM25,2509.03692v1,lifeXplore at the Lifelog Search Challenge 2021,ir_retrieval,1.0,2509.03692v1,0.5
+BM25,2511.22247v1,FIGROTD: A Friendly-to-Handle Dataset for Image Guided Retrieval with Optional Text,ir_retrieval,1.0,2511.22247v1,0.4
+BM25,2512.22744v1,Bridging Global Intent with Local Details: A Hierarchical Representation Approach for Semantic Validation in Text-to-SQL,lg_ml,1.0,2512.22744v1,0.1
+BM25,2512.14277v1,SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions,ir_retrieval,1.0,2512.14277v1,0.7
+Semantic,2512.23903v2,Scaling Remote Sensing Foundation Models: Data Domain Tradeoffs at the Peta-Scale,cv_vision,1.0,2512.23903v2,0.9
+Semantic,2512.17851v2,InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models,cv_vision,1.0,2512.17851v2,0.8
+Semantic,2512.22374v1,Self-Evaluation Unlocks Any-Step Text-to-Image Generation,cv_vision,1.0,2512.22374v1,1.0
+Semantic,2511.23205v1,A PLS-Integrated LASSO Method with Application in Index Tracking,stat_ml,1.0,2511.23205v1,0.8
+Semantic,2512.17907v1,Dexterous World Models,cv_vision,6.0,2510.15824v1,0.1
+Semantic,2512.22203v1,TCFormer: A 5M-Parameter Transformer with Density-Guided Aggregation for Weakly-Supervised Crowd Counting,cv_vision,1.0,2512.22203v1,0.4
+Semantic,2512.23131v1,SE-MLP Model for Predicting Prior Acceleration Features in Penetration Signals,lg_ml,1.0,2512.23131v1,0.2
+Semantic,2512.23635v1,Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception,cv_vision,1.0,2512.23635v1,1.0
+Semantic,2512.19605v1,KerJEPA: Kernel Discrepancies for Euclidean Self-Supervised Learning,lg_ml,2.0,2509.07289v2,0.1
+Semantic,2512.16918v3,AdaTooler-V: Adaptive Tool-Use for Images and Videos,cv_vision,2.0,2512.20871v2,1.0
+Semantic,2510.16803v1,An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision,ir_retrieval,1.0,2510.16803v1,1.0
+Semantic,2512.24000v2,WISE: Web Information Satire and Fakeness Evaluation,cl_nlp,1.0,2512.24000v2,0.4
+Semantic,2509.20989v2,Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems,ir_retrieval,1.0,2509.20989v2,1.0
+Semantic,2512.17675v1,An Empirical Study of Sampling Hyperparameters in Diffusion-Based Super-Resolution,cv_vision,1.0,2512.17675v1,0.4
+Semantic,2602.23371v1,Domain-Partitioned Hybrid RAG for Legal Reasoning: Toward Modular and Explainable Legal AI for India,ir_retrieval,1.0,2602.23371v1,0.1
+Semantic,2509.22919v1,Label-Guided Imputation via Forest-Based Proximities for Improved Time Series Classification,stat_ml,1.0,2509.22919v1,0.5
+Semantic,2512.10304v1,Trustworthy Orchestration Artificial Intelligence by the Ten Criteria with Control-Plane Governance,ai_general,1.0,2512.10304v1,1.0
+Semantic,2512.20135v2,MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization,ai_general,1.0,2512.20135v2,0.6
+Semantic,2510.01944v1,Uniform-in-time convergence bounds for Persistent Contrastive Divergence Algorithms,stat_ml,2.0,2510.13438v1,0.9
+Semantic,2512.19510v1,Toward Scalable and Valid Conditional Independence Testing with Spectral Representations,lg_ml,1.0,2512.19510v1,0.0
+Semantic,2512.17612v1,Self-Supervised Weighted Image Guided Quantitative MRI Super-Resolution,cv_vision,1.0,2512.17612v1,0.8
+Semantic,2511.03000v1,Unifying Information-Theoretic and Pair-Counting Clustering Similarity,stat_ml,1.0,2511.03000v1,0.8
+Semantic,2512.14766v1,GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge,ai_general,1.0,2512.14766v1,0.4
+Semantic,2601.00879v1,VL-OrdinalFormer: Vision Language Guided Ordinal Transformers for Interpretable Knee Osteoarthritis Grading,cv_vision,1.0,2601.00879v1,0.8
+Semantic,2512.13655v2,Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation,cl_nlp,1.0,2512.13655v2,0.1
+Semantic,2512.23971v1,CEC-Zero: Zero-Supervision Character Error Correction with Self-Generated Rewards,cl_nlp,1.0,2512.23971v1,0.5
+Semantic,2512.24331v1,Spatial-aware Vision Language Model for Autonomous Driving,cv_vision,1.0,2512.24331v1,0.8
+Semantic,2512.23545v1,PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis,cv_vision,1.0,2512.23545v1,0.0
+Semantic,2512.02474v2,Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation,ir_retrieval,1.0,2512.02474v2,0.9
+Semantic,2512.17331v1,SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation,cv_vision,1.0,2512.17331v1,1.0
+Semantic,2512.16917v3,Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning,ai_general,1.0,2512.16917v3,0.4
+Semantic,2511.14710v1,Towards a Unified Analysis of Neural Networks in Nonparametric Instrumental Variable Regression: Optimization and Generalization,stat_ml,3.0,2511.19404v1,1.0
+Semantic,2601.05269v2,Studying Illustrations in Manuscripts: An Efficient Deep-Learning Approach,ir_retrieval,1.0,2601.05269v2,0.2
+Semantic,2509.05564v1,Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models,ir_retrieval,1.0,2509.05564v1,1.0
+Semantic,2512.18732v1,Counterfactual Basis Extension and Representational Geometry: An MDL-Constrained Model of Conceptual Growth,ai_general,1.0,2512.18732v1,0.5
+Semantic,2510.20276v2,From Generation to Attribution: Music AI Agent Architectures for the Post-Streaming Era,ir_retrieval,1.0,2510.20276v2,0.2
+Semantic,2512.21921v1,AutoPP: Towards Automated Product Poster Generation and Optimization,cv_vision,1.0,2512.21921v1,0.1
+Semantic,2512.16437v1,A Novel Proposal in Wind Turbine Blade Failure Detection: An Integrated Approach to Energy Efficiency and Sustainability,lg_ml,1.0,2512.16437v1,0.5
+Semantic,2510.00966v1,Deep Learning-Based Approach for Improving Relational Aggregated Search,ir_retrieval,1.0,2510.00966v1,0.9
+Semantic,2510.18239v3,LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling,ir_retrieval,4.0,2512.04748v1,0.8
+Semantic,2512.24603v1,Collaborative Low-Rank Adaptation for Pre-Trained Vision Transformers,cv_vision,1.0,2512.24603v1,0.7
+Semantic,2509.10975v2,ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER,ir_retrieval,1.0,2509.10975v2,0.1
+Semantic,2509.03438v1,Non-Linear Counterfactual Aggregate Optimization,stat_ml,1.0,2509.03438v1,0.9
+Semantic,2512.24461v1,Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents,ai_general,2.0,2512.04513v1,0.8
+Semantic,2512.21095v1,UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters,cv_vision,1.0,2512.21095v1,0.1
+Semantic,2510.16745v3,Kernel-Based Nonparametric Tests For Shape Constraints,stat_ml,1.0,2510.16745v3,0.9
+Semantic,2512.13279v1,AIR: Post-training Data Selection for Reasoning via Attention Head Influence,cl_nlp,1.0,2512.13279v1,0.5
+Semantic,2509.03661v1,ACT: Automated Constraint Targeting for Multi-Objective Recommender Systems,ir_retrieval,1.0,2509.03661v1,1.0
+Semantic,2512.18215v1,Stable and Efficient Single-Rollout RL for Multimodal Reasoning,lg_ml,1.0,2512.18215v1,0.0
+Semantic,2511.18024v1,Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems,ir_retrieval,1.0,2511.18024v1,0.9
+Semantic,2512.06239v1,LOCUS: A System and Method for Low-Cost Customization for Universal Specialization,cl_nlp,5.0,2601.00880v1,0.0
+Semantic,2512.24787v2,HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment,ir_retrieval,1.0,2512.24787v2,0.9
+Semantic,2509.11962v1,Identifiable Autoregressive Variational Autoencoders for Nonlinear and Nonstationary Spatio-Temporal Blind Source Separation,stat_ml,1.0,2509.11962v1,0.3
+Semantic,2512.23137v1,Graph Neural Networks with Transformer Fusion of Brain Connectivity Dynamics and Tabular Data for Forecasting Future Tobacco Use,lg_ml,1.0,2512.23137v1,0.3
+Semantic,2512.23163v1,Why We Need a New Framework for Emotional Intelligence in AI,ai_general,1.0,2512.23163v1,0.3
+Semantic,2512.10092v1,Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit,ai_general,2.0,2512.21670v1,0.0
+Semantic,2512.12978v1,Do Reviews Matter for Recommendations in the Era of Large Language Models?,ir_retrieval,1.0,2512.12978v1,0.7
+Semantic,2512.18968v2,Total Normal Curvature Regularization and its Minimization for Surface and Image Smoothing,cv_vision,1.0,2512.18968v2,0.6
+Semantic,2511.18583v2,Differential privacy with dependent data,stat_ml,1.0,2511.18583v2,0.7
+Semantic,2512.06348v1,Modeling Spatio-temporal Extremes via Conditional Variational Autoencoders,stat_ml,1.0,2512.06348v1,0.5
+Semantic,2512.23145v1,Reservoir Computing inspired Matrix Multiplication-free Language Model,cl_nlp,1.0,2512.23145v1,0.2
+Semantic,2510.22567v1,Semi-Supervised Learning under General Causal Models,stat_ml,1.0,2510.22567v1,0.8
+Semantic,2512.24323v1,Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention,cv_vision,1.0,2512.24323v1,1.0
+Semantic,2512.20724v1,SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention,cl_nlp,1.0,2512.20724v1,0.3
+Semantic,2509.22486v1,Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks,ir_retrieval,1.0,2509.22486v1,0.6
+Semantic,2511.08150v6,DiffuGR: Generative Document Retrieval with Diffusion Language Models,ir_retrieval,1.0,2511.08150v6,0.8
+Semantic,2509.25783v6,Sharpness of Minima in Deep Matrix Factorization,stat_ml,1.0,2509.25783v6,0.4
+Semantic,2509.03764v2,LLM-based Relevance Assessment for Web-Scale Search Evaluation at Pinterest,ir_retrieval,1.0,2509.03764v2,1.0
+Semantic,2512.08609v2,CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models,ai_general,1.0,2512.08609v2,0.5
+Semantic,2512.22189v1,Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification,lg_ml,2.0,2512.22190v1,0.3
+Semantic,2512.06404v1,GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols,ai_general,,2512.20996v1,0.9
+Semantic,2512.04746v2,SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs,cl_nlp,1.0,2512.04746v2,0.2
+Semantic,2512.18932v1,DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems,lg_ml,1.0,2512.18932v1,0.2
+Semantic,2512.22249v1,Temporal Visual Semantics-Induced Human Motion Understanding with Large Language Models,lg_ml,1.0,2512.22249v1,0.0
+Semantic,2512.05012v1,Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking,cl_nlp,1.0,2512.05012v1,0.5
+Semantic,2601.11575v1,Concept Attractors in LLMs and their Applications,cl_nlp,5.0,2512.15687v1,0.1
+Semantic,2512.18454v2,Out-of-Distribution Detection in Molecular Complexes via Diffusion Models for Irregular Graphs,lg_ml,1.0,2512.18454v2,0.1
+Semantic,2512.25055v1,Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings,ai_general,1.0,2512.25055v1,0.9
+Semantic,2512.19537v1,Event Extraction in Large Language Model,cl_nlp,4.0,2512.13618v3,0.9
+Semantic,2512.18772v1,In-Context Audio Control of Video Diffusion Transformers,cv_vision,1.0,2512.18772v1,1.0
+Semantic,2512.22903v1,Debugging Tabular Log as Dynamic Graphs,lg_ml,1.0,2512.22903v1,0.2
+Semantic,2512.03762v2,RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design,ai_general,1.0,2512.03762v2,0.6
+Semantic,2512.23572v1,Instruction-Following Evaluation of Large Vision-Language Models,cl_nlp,1.0,2512.23572v1,0.4
+Semantic,2512.19114v1,HyperLoad: A Cross-Modality Enhanced Large Language Model-Based Framework for Green Data Center Cooling Load Prediction,lg_ml,1.0,2512.19114v1,0.2
+Semantic,2512.18832v2,From Word to World: Can Large Language Models be Implicit Text-based World Models?,cl_nlp,1.0,2512.18832v2,0.8
+Semantic,2510.01930v2,Precise Dynamics of Diagonal Linear Networks: A Unifying Analysis by Dynamical Mean-Field Theory,stat_ml,1.0,2510.01930v2,0.9
+Semantic,2512.24903v1,"FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation",cv_vision,1.0,2512.24903v1,0.1
+Semantic,2509.23128v1,"Conditional Risk Minimization with Side Information: A Tractable, Universal Optimal Transport Framework",stat_ml,1.0,2509.23128v1,0.9
+Semantic,2512.17720v1,Mitigating Forgetting in Low Rank Adaptation,lg_ml,2.0,2512.09910v1,0.2
+Semantic,2510.09857v1,MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterest,ir_retrieval,1.0,2510.09857v1,1.0
+Semantic,2509.16780v2,Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook,ir_retrieval,1.0,2509.16780v2,0.7
+Semantic,2512.12775v2,"Persistent Personas? Role-Playing, Instruction Following, and Safety in Extended Interactions",cl_nlp,1.0,2512.12775v2,0.1
+Semantic,2512.20305v2,A Structured Nonparametric Framework for Nonlinear Accelerated Failure Time Models (KAN-AFT),stat_ml,1.0,2512.20305v2,0.9
+Semantic,2512.07795v1,ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning,ai_general,1.0,2512.07795v1,0.6
+Semantic,2508.20942v1,Transfer Learning for Classification under Decision Rule Drift with Application to Optimal Individualized Treatment Rule Estimation,stat_ml,1.0,2508.20942v1,0.9
+Semantic,2510.12709v3,SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model,ir_retrieval,1.0,2510.12709v3,0.2
+Semantic,2510.22063v3,Deep Ensembles for Epistemic Uncertainty: A Frequentist Perspective,stat_ml,1.0,2510.22063v3,0.6
+Semantic,2512.17080v1,Interpretable Similarity of Synthetic Image Utility,cv_vision,1.0,2512.17080v1,0.8
+Semantic,2512.19643v1,The Best of Both Worlds: Hybridizing Neural Operators and Solvers for Stable Long-Horizon Inference,lg_ml,1.0,2512.19643v1,0.5
+Semantic,2512.23457v1,Replay Failures as Successes: Sample-Efficient Reinforcement Learning for Instruction Following,ai_general,1.0,2512.23457v1,0.3
+Semantic,2512.15946v2,AIE4ML: An End-to-End Framework for Compiling Neural Networks for the Next Generation of AMD AI Engines,lg_ml,1.0,2512.15946v2,0.6
+Semantic,2512.00313v1,Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System,ir_retrieval,1.0,2512.00313v1,0.8
+Semantic,2512.24605v1,MoniRefer: A Real-world Large-scale Multi-modal Dataset based on Roadside Infrastructure for 3D Visual Grounding,cv_vision,1.0,2512.24605v1,1.0
+Semantic,2512.08769v1,"A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows",ai_general,1.0,2512.08769v1,1.0
+Semantic,2512.09487v1,RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning,cl_nlp,1.0,2512.09487v1,0.1
+Semantic,2512.14851v1,Unreliable Uncertainty Estimates with Monte Carlo Dropout,lg_ml,1.0,2512.14851v1,0.1
+Semantic,2510.12547v1,Universal Adaptive Environment Discovery,stat_ml,1.0,2510.12547v1,0.1
+Semantic,2512.22392v1,iOSPointMapper: RealTime Pedestrian and Accessibility Mapping with Mobile AI,cv_vision,1.0,2512.22392v1,0.8
+Semantic,2512.16386v1,Quantitative Verification of Fairness in Tree Ensembles,lg_ml,1.0,2512.16386v1,0.1
+Semantic,2512.15298v1,ChatGPT and Gemini participated in the Korean College Scholastic Ability Test -- Earth Science I,ai_general,1.0,2512.15298v1,0.2
+Semantic,2512.16698v1,Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning,ai_general,1.0,2512.16698v1,0.7
+Semantic,2509.24095v2,Singleton-Optimized Conformal Prediction,stat_ml,2.0,2510.10324v2,1.0
+Semantic,2601.00874v1,LLMize: A Framework for Large Language Model-Based Numerical Optimization,lg_ml,1.0,2601.00874v1,0.2
+Semantic,2601.04202v1,TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation,cl_nlp,1.0,2601.04202v1,0.7
+Semantic,2510.04508v1,MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations,ir_retrieval,4.0,2511.02181v1,1.0
+Semantic,2511.02571v1,Average Precision at Cutoff k under Random Rankings: Expectation and Variance,ir_retrieval,1.0,2511.02571v1,0.2
+Semantic,2512.14112v1,Optimizing Multi-Tier Supply Chain Ordering with a Hybrid Liquid Neural Network and Extreme Gradient Boosting Model,ai_general,1.0,2512.14112v1,0.4
+Semantic,2512.18190v3,External Hippocampus: Topological Cognitive Maps for Guiding Large Language Model Reasoning,ai_general,1.0,2512.18190v3,0.4
+Semantic,2509.19931v2,Documentation Retrieval Improves Planning Language Generation,ir_retrieval,1.0,2509.19931v2,0.3
+Semantic,2511.04403v2,Online Bayesian Experimental Design for Partially Observed Dynamical Systems,stat_ml,1.0,2511.04403v2,0.9
+Semantic,2509.12166v1,MMM: Clustering Multivariate Longitudinal Mixed-type Data,stat_ml,1.0,2509.12166v1,0.9
+Semantic,2512.20028v1,DecoKAN: Interpretable Decomposition for Forecasting Cryptocurrency Market Dynamics,lg_ml,1.0,2512.20028v1,0.5
+Semantic,2512.16912v3,"Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward",lg_ml,1.0,2512.16912v3,0.3
+Semantic,2512.19995v3,Schoenfeld's Anatomy of Mathematical Reasoning by Language Models,cl_nlp,1.0,2512.19995v3,0.3
+Semantic,2511.22253v1,UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries,ir_retrieval,2.0,2512.20781v1,0.8
+Semantic,2512.24547v1,Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression,cv_vision,1.0,2512.24547v1,1.0
+Semantic,2512.18241v1,SG-RIFE: Semantic-Guided Real-Time Intermediate Flow Estimation with Diffusion-Competitive Perceptual Quality,cv_vision,2.0,2512.15657v2,0.4
+Semantic,2511.00217v1,Gradient Boosted Mixed Models: Flexible Joint Estimation of Mean and Variance Components for Clustered Data,stat_ml,1.0,2511.00217v1,1.0
+Semantic,2512.15328v2,Thematic Dispersion in Arabic Applied Linguistics: A Bibliometric Analysis using Brookes' Measure,cl_nlp,1.0,2512.15328v2,0.7
+Semantic,2512.14041v1,From Feature Interaction to Feature Generation: A Generative Paradigm of CTR Prediction Models,ir_retrieval,2.0,2511.14403v1,0.4
+Semantic,2512.23028v1,An Architecture-Led Hybrid Report on Body Language Detection Project,cv_vision,1.0,2512.23028v1,0.6
+Semantic,2511.09486v2,A general framework for adaptive nonparametric dimensionality reduction,stat_ml,1.0,2511.09486v2,1.0
+Semantic,2512.20105v1,LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs,cv_vision,1.0,2512.20105v1,1.0
+Semantic,2511.09577v1,Siegel Neural Networks,stat_ml,1.0,2511.09577v1,0.4
+Semantic,2512.19424v1,CodeSimpleQA: Scaling Factuality in Code Large Language Models,cl_nlp,1.0,2512.19424v1,0.4
+Semantic,2509.15432v1,SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models,ir_retrieval,1.0,2509.15432v1,0.8
+Semantic,2512.14675v1,Beyond Lipschitz Continuity and Monotonicity: Fractal and Chaotic Activation Functions in Echo State Networks,lg_ml,1.0,2512.14675v1,0.4
+Semantic,2512.17817v3,Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding,cv_vision,1.0,2512.17817v3,1.0
+Semantic,2512.15926v3,DSO: Direct Steering Optimization for Bias Mitigation,lg_ml,1.0,2512.15926v3,0.2
+Semantic,2512.04513v1,BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models,ai_general,1.0,2512.04513v1,0.2
+Semantic,2509.26175v1,Spectral gap of Metropolis-within-Gibbs under log-concavity,stat_ml,1.0,2509.26175v1,0.9
+Semantic,2512.16911v1,Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning,lg_ml,1.0,2512.16911v1,0.3
+Semantic,2512.06710v1,Stochasticity in Agentic Evaluations: Quantifying Inconsistency with Intraclass Correlation,ai_general,1.0,2512.06710v1,0.8
+Semantic,2509.19226v1,Neighbor Embeddings Using Unbalanced Optimal Transport Metrics,stat_ml,2.0,2511.19075v2,0.8
+Semantic,2512.18254v1,Loom: Diffusion-Transformer for Interleaved Generation,cv_vision,5.0,2512.24176v2,0.5
+Semantic,2509.10853v2,Variable Selection Using Relative Importance Rankings,stat_ml,1.0,2509.10853v2,0.2
+Semantic,2512.08601v2,Heuristics for Combinatorial Optimization via Value-based Reinforcement Learning: A Unified Framework and Analysis,stat_ml,1.0,2512.08601v2,0.0
+Semantic,2512.17303v1,EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance,cv_vision,19.0,2512.05251v2,0.1
+Semantic,2512.19680v1,VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation,cv_vision,1.0,2512.19680v1,0.9
+Semantic,2512.21545v1,EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal,cv_vision,1.0,2512.21545v1,0.9
+Semantic,2510.22242v1,PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading,ir_retrieval,1.0,2510.22242v1,0.5
+Semantic,2512.22439v3,SuperiorGAT: Graph Attention Networks for Sparse LiDAR Point Cloud Reconstruction in Autonomous Systems,cv_vision,1.0,2512.22439v3,0.8
+Semantic,2512.24867v2,Encyclo-K: Evaluating LLMs with Dynamically Composed Knowledge Statements,cl_nlp,5.0,2512.15906v2,0.4
+Semantic,2512.24663v1,Renormalization Group Guided Tensor Network Structure Search,cv_vision,1.0,2512.24663v1,0.0
+Semantic,2512.18337v2,Towards Efficient Agents: A Co-Design of Inference Architecture and System,cl_nlp,1.0,2512.18337v2,0.1
+Semantic,2512.19728v2,Hard Negative Sample-Augmented DPO Post-Training for Small Language Models,lg_ml,,2512.14549v3,0.0
+Semantic,2602.22219v1,Comparative Analysis of Neural Retriever-Reranker Pipelines for Retrieval-Augmented Generation over Knowledge Graphs in E-commerce Applications,ir_retrieval,1.0,2602.22219v1,1.0
+Semantic,2512.17477v1,Deep Learning-Based Surrogate Creep Modelling in Inconel 625: A High-Temperature Alloy Study,lg_ml,1.0,2512.17477v1,0.7
+Semantic,2512.20021v1,Gaussian Process Assisted Meta-learning for Image Classification and Object Detection Models,stat_ml,1.0,2512.20021v1,0.6
+Semantic,2509.26262v1,Analyzing BEV Suitability and Charging Strategies Using Italian Driving Data,ir_retrieval,1.0,2509.26262v1,0.1
+Semantic,2510.15012v1,From Universal Approximation Theorem to Tropical Geometry of Multi-Layer Perceptrons,stat_ml,1.0,2510.15012v1,0.7
+Semantic,2512.23647v1,Nested Browser-Use Learning for Agentic Information Seeking,cl_nlp,1.0,2512.23647v1,0.1
+Semantic,2512.04868v1,SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs,cl_nlp,1.0,2512.04868v1,0.2
+Semantic,2512.15274v1,"Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning",cl_nlp,1.0,2512.15274v1,0.2
+Semantic,2511.16943v2,RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers,ir_retrieval,1.0,2511.16943v2,1.0
+Semantic,2512.16717v1,Phishing Detection System: An Ensemble Approach Using Character-Level CNN and Feature Engineering,lg_ml,1.0,2512.16717v1,0.5
+Semantic,2512.09458v1,Architectures for Building Agentic AI,ai_general,6.0,2512.04469v1,1.0
+Semantic,2510.15013v1,Reliable data clustering with Bayesian community detection,stat_ml,1.0,2510.15013v1,0.8
+Semantic,2512.04488v2,Persona-based Multi-Agent Collaboration for Brainstorming,ai_general,1.0,2512.04488v2,0.8
+Semantic,2512.16648v1,Exploiting Radio Frequency Fingerprints for Device Identification: Tackling Cross-receiver Challenges in the Source-data-free Scenario,lg_ml,1.0,2512.16648v1,0.6
+Semantic,2512.19683v2,From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs,cv_vision,1.0,2512.19683v2,0.7
+Semantic,2512.20723v1,From artificial to organic: Rethinking the roots of intelligence for digital health,ai_general,1.0,2512.20723v1,1.0
+Semantic,2512.21015v2,FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing,cv_vision,1.0,2512.21015v2,0.9
+Semantic,2512.22437v2,EmoCtrl: Controllable Emotional Image Content Generation,cv_vision,1.0,2512.22437v2,0.7
+Semantic,2512.19275v1,Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation,cv_vision,1.0,2512.19275v1,0.7
+Semantic,2510.10245v2,Kernel Treatment Effects with Adaptively Collected Data,stat_ml,1.0,2510.10245v2,1.0
+Semantic,2512.16282v2,CALM: A CKA-Guided Adaptive Layer-Wise Modularization Framework for LLM Quantization,lg_ml,1.0,2512.16282v2,0.5
+Semantic,2512.16913v1,Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation,cv_vision,3.0,2512.24276v1,1.0
+Semantic,2512.13716v1,ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making,ai_general,1.0,2512.13716v1,0.7
+Semantic,2509.16627v1,Conditional Multidimensional Scaling with Incomplete Conditioning Data,stat_ml,1.0,2509.16627v1,0.9
+Semantic,2512.18475v2,Research on a hybrid LSTM-CNN-Attention model for text-based web content classification,cl_nlp,1.0,2512.18475v2,0.7
+Semantic,2512.18738v1,AMLID: An Adaptive Multispectral Landmine Identification Dataset for Drone-Based Detection,cv_vision,1.0,2512.18738v1,0.8
+Semantic,2510.20472v1,Concentration and excess risk bounds for imbalanced classification with synthetic oversampling,stat_ml,1.0,2510.20472v1,0.8
+Semantic,2512.14617v1,Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes,lg_ml,1.0,2512.14617v1,0.5
+Semantic,2509.24632v1,UniDex: Rethinking Search Inverted Indexing with Unified Semantic Modeling,ir_retrieval,1.0,2509.24632v1,1.0
+Semantic,2512.21076v1,Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions,ir_retrieval,1.0,2512.21076v1,1.0
+Semantic,2512.11081v1,Provable Recovery of Locally Important Signed Features and Interactions from Random Forest,stat_ml,1.0,2512.11081v1,0.8
+Semantic,2512.21482v1,LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis,ai_general,1.0,2512.21482v1,0.5
+Semantic,2509.22553v1,"Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement",stat_ml,2.0,2510.04970v2,0.4
+Semantic,2512.08131v1,Universal Adversarial Suffixes for Language Models Using Reinforcement Learning with Calibrated Reward,cl_nlp,1.0,2512.08131v1,0.2
+Semantic,2512.10501v2,Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation,ai_general,1.0,2512.10501v2,0.6
+Semantic,2509.22325v1,Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?,ir_retrieval,1.0,2509.22325v1,1.0
+Semantic,2510.04421v2,Learning Survival Models with Right-Censored Reporting Delays,stat_ml,1.0,2510.04421v2,0.6
+Semantic,2511.05493v1,"GreyShot: Zeroshot and Privacy-preserving Recommender System by GM(1,1) Model",ir_retrieval,1.0,2511.05493v1,0.9
+Semantic,2512.23947v1,Improved Balanced Classification with Theoretically Grounded Loss Functions,lg_ml,1.0,2512.23947v1,0.3
+Semantic,2511.05991v1,Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance,ir_retrieval,1.0,2511.05991v1,0.5
+Semantic,2512.19456v1,Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations,cl_nlp,1.0,2512.19456v1,0.8
+Semantic,2512.20145v1,Retrieval-augmented Prompt Learning for Pre-trained Foundation Models,cl_nlp,1.0,2512.20145v1,0.1
+Semantic,2512.09386v1,CONCUR: A Framework for Continual Constrained and Unconstrained Routing,cl_nlp,1.0,2512.09386v1,0.1
+Semantic,2512.21775v1,Compliance Rating Scheme: A Data Provenance Framework for Generative AI Datasets,ai_general,1.0,2512.21775v1,0.6
+Semantic,2512.13857v2,EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery,ai_general,1.0,2512.13857v2,0.2
+Semantic,2512.21626v1,Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing,ai_general,1.0,2512.21626v1,0.0
+Semantic,2601.00816v1,MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback,ai_general,1.0,2601.00816v1,0.0
+Semantic,2512.04987v1,Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction,cl_nlp,2.0,2512.24873v3,0.2
+Semantic,2512.21204v2,SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation,cl_nlp,1.0,2512.21204v2,0.7
+Semantic,2512.15259v1,SynGP500: A Clinically-Grounded Synthetic Dataset of Australian General Practice Medical Notes,cl_nlp,1.0,2512.15259v1,0.4
+Semantic,2512.19438v1,MT-Mark: Rethinking Image Watermarking via Mutual-Teacher Collaboration with Adaptive Feature Modulation,cv_vision,1.0,2512.19438v1,0.5
+Semantic,2512.20898v1,DGSAN: Dual-Graph Spatiotemporal Attention Network for Pulmonary Nodule Malignancy Prediction,cv_vision,1.0,2512.20898v1,0.5
+Semantic,2512.21127v1,A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care,ai_general,1.0,2512.21127v1,0.4
+Semantic,2512.17058v2,Universal consistency of the $k$-NN rule in metric spaces and Nagata dimension. III,lg_ml,1.0,2512.17058v2,0.3
+Semantic,2510.00463v4,On the Adversarial Robustness of Learning-based Conformal Novelty Detection,stat_ml,1.0,2510.00463v4,0.4
+Semantic,2512.16295v1,OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models,ai_general,1.0,2512.16295v1,0.4
+Semantic,2512.18247v1,Towards Ancient Plant Seed Classification: A Benchmark Dataset and Baseline Model,cv_vision,1.0,2512.18247v1,0.5
+Semantic,2510.08948v3,SHERLOCK:Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management,ir_retrieval,1.0,2510.08948v3,0.4
+Semantic,2509.07594v1,ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction,ir_retrieval,1.0,2509.07594v1,0.7
+Semantic,2512.17206v1,Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs,cv_vision,1.0,2512.17206v1,0.3
+Semantic,2512.15556v1,An Empirical Study on Chinese Character Decomposition in Multiword Expression-Aware Neural Machine Translation,cl_nlp,1.0,2512.15556v1,0.9
+Semantic,2512.10691v1,Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning,ai_general,2.0,2512.16145v2,0.3
+Semantic,2510.07784v1,PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations,ir_retrieval,6.0,2510.15647v1,1.0
+Semantic,2512.15176v1,"DEER: Draft with Diffusion, Verify with Autoregressive Models",lg_ml,1.0,2512.15176v1,0.1
+Semantic,2510.26407v1,Barlow Twins for Sequential Recommendation,ir_retrieval,1.0,2510.26407v1,1.0
+Semantic,2512.14179v1,A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs,cl_nlp,1.0,2512.14179v1,0.5
+Semantic,2512.10313v2,EpiPlanAgent: Agentic Automated Epidemic Response Planning,ai_general,1.0,2512.10313v2,0.8
+Semantic,2512.17969v1,Convolutional-neural-operator-based transfer learning for solving PDEs,lg_ml,1.0,2512.17969v1,0.4
+Semantic,2509.18560v1,"Understand your Users, An Ensemble Learning Framework for Natural Noise Filtering in Recommender Systems",ir_retrieval,1.0,2509.18560v1,0.9
+Semantic,2512.22304v1,PortionNet: Distilling 3D Geometric Knowledge for Food Nutrition Estimation,cv_vision,1.0,2512.22304v1,0.9
+Semantic,2512.06883v2,Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation,ir_retrieval,1.0,2512.06883v2,1.0
+Semantic,2510.21242v2,Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation,ir_retrieval,1.0,2510.21242v2,1.0
+Semantic,2511.16326v3,ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning,ir_retrieval,1.0,2511.16326v3,0.1
+Semantic,2512.09944v3,Echo-CoPilot: A Multiple-Perspective Agentic Framework for Reliable Echocardiography Interpretation,ai_general,1.0,2512.09944v3,0.6
+Semantic,2512.22378v1,Towards Efficient Post-Training via Fourier-Driven Adapter Architectures,cl_nlp,1.0,2512.22378v1,0.2
+Semantic,2512.23767v1,Enabling Physical AI at the Edge: Hardware-Accelerated Recovery of System Dynamics,lg_ml,1.0,2512.23767v1,0.3
+Semantic,2512.22854v2,ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning,cv_vision,1.0,2512.22854v2,0.7
+Semantic,2512.22626v1,Envision: Embodied Visual Planning via Goal-Imagery Video Diffusion,cv_vision,1.0,2512.22626v1,0.7
+Semantic,2512.21708v1,MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles,cl_nlp,15.0,2512.03762v2,0.2
+Semantic,2512.20854v2,How important is Recall for Measuring Retrieval Quality?,cl_nlp,1.0,2512.20854v2,0.0
+Semantic,2512.24195v1,CorGi: Contribution-Guided Block-Wise Interval Caching for Training-Free Acceleration of Diffusion Transformers,cv_vision,2.0,2512.17298v3,0.3
+Semantic,2512.03057v1,A note on the impossibility of conditional PAC-efficient reasoning in large language models,stat_ml,1.0,2512.03057v1,0.0
+Semantic,2510.01553v3,IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data,ir_retrieval,1.0,2510.01553v3,0.3
+Semantic,2512.16883v1,AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning,cl_nlp,1.0,2512.16883v1,0.5
+Semantic,2509.22459v4,Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs),stat_ml,1.0,2509.22459v4,0.3
+Semantic,2509.15380v2,Efficient and Versatile Model for Multilingual Information Retrieval of Islamic Text: Development and Deployment in Real-World Scenarios,ir_retrieval,1.0,2509.15380v2,0.5
+Semantic,2512.20260v5,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,cv_vision,1.0,2512.20260v5,0.8
+Semantic,2512.04895v1,Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems,ai_general,1.0,2512.04895v1,0.2
+Semantic,2512.05156v2,Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations,ai_general,,2512.18813v1,0.2
+Semantic,2512.23565v5,RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature,cv_vision,1.0,2512.23565v5,0.0
+Semantic,2512.23977v1,Causify DataFlow: A Framework For High-performance Machine Learning Stream Computing,lg_ml,1.0,2512.23977v1,0.8
+Semantic,2510.14626v1,GemiRec: Interest Quantization and Generation for Multi-Interest Recommendation,ir_retrieval,1.0,2510.14626v1,1.0
+Semantic,2512.20893v1,Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks,lg_ml,1.0,2512.20893v1,0.5
+Semantic,2512.21804v1,S&P 500 Stock's Movement Prediction using CNN,cv_vision,1.0,2512.21804v1,0.0
+Semantic,2512.19486v1,Dynamic Stream Network for Combinatorial Explosion Problem in Deformable Medical Image Registration,cv_vision,1.0,2512.19486v1,1.0
+Semantic,2512.16742v1,Machine Learning Algorithms: Detection Official Hajj and Umrah Travel Agency Based on Text and Metadata Analysis,lg_ml,1.0,2512.16742v1,0.1
+Semantic,2512.14693v3,Universal Reasoning Model,ai_general,9.0,2512.12620v3,0.5
+Semantic,2512.23512v2,UniHetero: Could Generation Enhance Understanding for Vision-Language-Model at Large Data Scale?,cl_nlp,1.0,2512.23512v2,0.3
+Semantic,2512.22322v2,SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents,cl_nlp,1.0,2512.22322v2,0.0
+Semantic,2512.17296v2,Towards Pixel-Wise Anomaly Location for High-Resolution PCBA via Self-Supervised Image Reconstruction,cv_vision,1.0,2512.17296v2,0.7
+Semantic,2512.04545v1,EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion,cl_nlp,1.0,2512.04545v1,0.5
+Semantic,2512.05576v1,CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning,ai_general,1.0,2512.05576v1,0.7
+Semantic,2512.21625v1,Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards,cl_nlp,2.0,2512.16912v3,0.2
+Semantic,2512.17145v2,Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty,ai_general,1.0,2512.17145v2,0.1
+Semantic,2510.13590v1,RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge,ir_retrieval,1.0,2510.13590v1,0.8
+Semantic,2512.11505v1,BAID: A Benchmark for Bias Assessment of AI Detectors,ai_general,2.0,2512.22969v1,0.0
+Semantic,2512.23436v2,Fuzzy-Logic and Deep Learning for Environmental Condition-Aware Road Surface Classification,cv_vision,1.0,2512.23436v2,0.5
+Semantic,2512.21670v1,The Deepfake Detective: Interpreting Neural Forensics Through Sparse Features and Manifolds,cv_vision,1.0,2512.21670v1,0.4
+Semantic,2512.24927v1,Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach,stat_ml,1.0,2512.24927v1,0.6
+Semantic,2601.02386v1,Tree of Preferences for Diversified Recommendation,ir_retrieval,1.0,2601.02386v1,1.0
+Semantic,2512.09662v1,Can LLMs Evaluate What They Cannot Annotate? Revisiting LLM Reliability in Hate Speech Detection,cl_nlp,1.0,2512.09662v1,0.7
+Semantic,2510.21028v1,Communication Platform for Non-verbal Autistic children in Oman using Android mobile,ir_retrieval,1.0,2510.21028v1,0.0
+Semantic,2512.20666v1,Dominating vs. Dominated: Generative Collapse in Diffusion Models,lg_ml,,2509.20101v1,0.0
+Semantic,2509.17251v1,Risk Comparisons in Linear Regression: Implicit Regularization Dominates Explicit Regularization,stat_ml,2.0,2509.22124v2,1.0
+Semantic,2512.20950v1,MultiMind at SemEval-2025 Task 7: Crosslingual Fact-Checked Claim Retrieval via Multi-Source Alignment,cl_nlp,1.0,2512.20950v1,0.4
+Semantic,2510.13445v1,Robust Minimax Boosting with Performance Guarantees,stat_ml,1.0,2510.13445v1,0.7
+Semantic,2511.05498v1,Biomedical Hypothesis Explainability with Graph-Based Context Retrieval,ir_retrieval,1.0,2511.05498v1,0.0
+Semantic,2512.06615v1,Latent Nonlinear Denoising Score Matching for Enhanced Learning of Structured Distributions,stat_ml,1.0,2512.06615v1,0.8
+Semantic,2511.04901v1,Association via Entropy Reduction,ir_retrieval,2.0,2511.03000v1,0.3
+Semantic,2512.22223v1,ReGAIN: Retrieval-Grounded AI Framework for Network Traffic Analysis,lg_ml,1.0,2512.22223v1,0.5
+Semantic,2512.14085v1,Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study,cl_nlp,1.0,2512.14085v1,0.8
+Semantic,2512.22293v1,Learning from Negative Examples: Why Warning-Framed Training Data Teaches What It Warns Against,lg_ml,1.0,2512.22293v1,0.0
+Semantic,2509.05106v1,Spectral Algorithms in Misspecified Regression: Convergence under Covariate Shift,stat_ml,1.0,2509.05106v1,1.0
+Semantic,2511.15634v1,Rényi Differential Privacy for Heavy-Tailed SDEs via Fractional Poincaré Inequalities,stat_ml,1.0,2511.15634v1,0.9
+Semantic,2512.20113v3,Multi-Sensor Attention Networks for Automated Subsurface Delamination Detection in Concrete Bridge Decks,cv_vision,1.0,2512.20113v3,0.6
+Semantic,2512.20002v3,LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models,lg_ml,1.0,2512.20002v3,0.0
+Semantic,2511.06803v1,Learning to Fast Unrank in Collaborative Filtering Recommendation,ir_retrieval,1.0,2511.06803v1,1.0
+Semantic,2512.09238v2,Training-free Context-adaptive Attention for Efficient Long Context Modeling,cl_nlp,1.0,2512.09238v2,0.7
+Semantic,2512.24733v1,BIOME-Bench: A Benchmark for Biomolecular Interaction Inference and Multi-Omics Pathway Mechanism Elucidation from Scientific Literature,cl_nlp,1.0,2512.24733v1,0.0
+Semantic,2512.22102v1,Explainable Multimodal Regression via Information Decomposition,lg_ml,1.0,2512.22102v1,0.3
+Semantic,2512.01820v1,Dimension-free error estimate for diffusion model and optimal scheduling,stat_ml,16.0,2510.25544v2,0.8
+Semantic,2512.16701v1,Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences,ai_general,1.0,2512.16701v1,0.9
+Semantic,2512.14879v1,Entropy-Reservoir Bregman Projection: An Information-Geometric Unification of Model Collapse,lg_ml,1.0,2512.14879v1,0.3
+Semantic,2512.16378v4,Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs,cl_nlp,1.0,2512.16378v4,0.8
+Semantic,2512.10433v1,Targeted Data Protection for Diffusion Model by Matching Training Trajectory,ai_general,1.0,2512.10433v1,0.0
+Semantic,2510.22298v1,MetaCaDI: A Meta-Learning Framework for Scalable Causal Discovery with Unknown Interventions,stat_ml,1.0,2510.22298v1,0.8
+Semantic,2512.19246v1,From Black-Box Tuning to Guided Optimization via Hyperparameters Interaction Analysis,lg_ml,14.0,2512.17569v1,0.4
+Semantic,2512.19091v1,"Auditing Significance, Metric Choice, and Demographic Fairness in Medical AI Challenges",cv_vision,1.0,2512.19091v1,0.1
+Semantic,2512.15267v1,Distillation-Guided Structural Transfer for Continual Learning Beyond Sparse Distributed Memory,lg_ml,1.0,2512.15267v1,0.6
+Semantic,2512.18553v1,Hierarchical Bayesian Framework for Multisource Domain Adaptation,cv_vision,1.0,2512.18553v1,0.0
+Semantic,2512.15140v1,Generalization and Feature Attribution in Machine Learning Models for Crop Yield and Anomaly Prediction in Germany,lg_ml,1.0,2512.15140v1,0.6
+Semantic,2512.17091v2,"Learning to Plan, Planning to Learn: Adaptive Hierarchical RL-MPC for Sample-Efficient Decision Making",lg_ml,1.0,2512.17091v2,0.4
+Semantic,2512.21527v1,Generative Actor Critic,lg_ml,1.0,2512.21527v1,0.6
+Semantic,2512.17838v1,ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges,cv_vision,1.0,2512.17838v1,0.7
+Semantic,2512.24997v1,Classifying long legal documents using short random chunks,cl_nlp,1.0,2512.24997v1,0.5
+Semantic,2512.13559v1,Verifying Rumors via Stance-Aware Structural Modeling,cl_nlp,1.0,2512.13559v1,0.4
+Semantic,2511.03125v2,Provable Accelerated Bayesian Optimization with Knowledge Transfer,stat_ml,2.0,2512.17569v1,0.9
+Semantic,2512.11187v1,Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling,ai_general,1.0,2512.11187v1,0.4
+Semantic,2512.23988v1,Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process,cl_nlp,8.0,2512.14036v1,0.6
+Semantic,2510.16657v2,Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence,stat_ml,1.0,2510.16657v2,0.7
+Semantic,2512.23684v1,Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing,cl_nlp,1.0,2512.23684v1,0.7
+Semantic,2512.24460v1,IELTS Writing Revision Platform with Automated Essay Scoring and Adaptive Feedback,cl_nlp,1.0,2512.24460v1,0.7
+Semantic,2509.04820v1,Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation,ir_retrieval,10.0,2511.20227v1,0.5
+Semantic,2512.05925v1,To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis,ai_general,1.0,2512.05925v1,0.4
+Semantic,2512.16409v1,Geometric Laplace Neural Operator,lg_ml,1.0,2512.16409v1,0.7
+Semantic,2512.14908v5,ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs,lg_ml,1.0,2512.14908v5,0.5
+Semantic,2601.08843v1,"Rubric-Conditioned LLM Grading: Alignment, Uncertainty, and Robustness",cl_nlp,1.0,2601.08843v1,0.6
+Semantic,2511.18750v1,On Instability of Minimax Optimal Optimism-Based Bandit Algorithms,stat_ml,1.0,2511.18750v1,0.8
+Semantic,2512.16465v2,cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution,ai_general,1.0,2512.16465v2,0.5
+Semantic,2512.23222v1,Bridging Your Imagination with Audio-Video Generation via a Unified Director,cv_vision,2.0,2512.24731v1,0.9
+Semantic,2512.18618v1,Assignment-Routing Optimization: Solvers for Problems Under Constraints,ai_general,1.0,2512.18618v1,0.9
+Semantic,2509.00990v1,Hybrid Topic-Semantic Labeling and Graph Embeddings for Unsupervised Legal Document Clustering,stat_ml,1.0,2509.00990v1,0.0
+Semantic,2512.17820v2,Exploiting ID-Text Complementarity via Ensembling for Sequential Recommendation,lg_ml,1.0,2512.17820v2,0.0
+Semantic,2512.21451v2,An approach to Fisher-Rao metric for infinite dimensional non-parametric information geometry,stat_ml,1.0,2512.21451v2,0.7
+Semantic,2510.23985v1,Score-based constrained generative modeling via Langevin diffusions with boundary conditions,stat_ml,1.0,2510.23985v1,0.7
+Semantic,2512.24713v2,FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference,lg_ml,1.0,2512.24713v2,0.6
+Semantic,2512.20298v3,Patterns vs. Patients: Evaluating LLMs against Mental Health Professionals on Personality Disorder Diagnosis through First-Person Narratives,cl_nlp,1.0,2512.20298v3,0.5
+Semantic,2511.06479v1,Bridging Theory and Practice: A Stochastic Learning-Optimization Model for Resilient Automotive Supply Chains,stat_ml,1.0,2511.06479v1,0.4
+Semantic,2512.06169v1,Morphologically-Informed Tokenizers for Languages with Non-Concatenative Morphology: A case study of Yoloxóchtil Mixtec ASR,cl_nlp,1.0,2512.06169v1,0.9
+Semantic,2512.22979v3,PoseStreamer: A Multi-modal Framework for 3D Tracking of Unseen Moving Objects,cv_vision,1.0,2512.22979v3,1.0
+Semantic,2512.20563v2,LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving,cv_vision,1.0,2512.20563v2,0.2
+Semantic,2512.19960v1,FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification,ai_general,1.0,2512.19960v1,0.1
+Semantic,2512.10322v2,User-Feedback-Driven Adaptation for Vision-and-Language Navigation,ai_general,1.0,2512.10322v2,0.0
+Semantic,2512.07611v1,"Comparative Analysis and Parametric Tuning of PPO, GRPO, and DAPO for LLM Reasoning Enhancement",ai_general,1.0,2512.07611v1,0.4
+Semantic,2512.09912v1,Supervised learning pays attention,stat_ml,17.0,2512.15934v2,0.3
+Semantic,2510.01098v1,"Theory of Scaling Laws for In-Context Regression: Depth, Width, Context and Time",stat_ml,1.0,2510.01098v1,0.9
+Semantic,2512.18857v3,CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning,ai_general,5.0,2512.18841v2,0.6
+Semantic,2512.24381v2,Tubular Riemannian Laplace Approximations for Bayesian Neural Networks,lg_ml,1.0,2512.24381v2,0.4
+Semantic,2511.16288v1,Spectral Identifiability for Interpretable Probe Geometry,stat_ml,1.0,2511.16288v1,0.8
+Semantic,2512.17098v2,Predictive Modeling of Maritime Radar Data Using Transformer Architecture,cv_vision,1.0,2512.17098v2,0.5
+Semantic,2512.23165v2,Evaluating Parameter Efficient Methods for RLVR,lg_ml,2.0,2512.07993v2,0.2
+Semantic,2510.18332v1,"Parametrising the Inhomogeneity Inducing Capacity of a Training Set, and its Impact on Supervised Learning",stat_ml,1.0,2510.18332v1,0.8
+Semantic,2512.05647v2,A Greek Government Decisions Dataset for Public-Sector Analysis and Insight,cl_nlp,1.0,2512.05647v2,0.2
+Semantic,2601.00844v1,Value-guided action planning with JEPA world models,lg_ml,2.0,2512.24497v3,0.2
+Semantic,2512.18980v1,OPBO: Order-Preserving Bayesian Optimization,lg_ml,1.0,2512.18980v1,0.1
+Semantic,2512.14051v1,OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value,ai_general,2.0,2601.09733v1,0.0
+Semantic,2512.07407v2,Training Language Models to Use Prolog as a Tool,cl_nlp,1.0,2512.07407v2,0.7
+Semantic,2510.07644v1,ISMIE: A Framework to Characterize Information Seeking in Modern Information Environments,ir_retrieval,1.0,2510.07644v1,0.9
+Semantic,2512.23353v2,ISOPO: Proximal policy gradients without pi-old,lg_ml,1.0,2512.23353v2,0.5
+Semantic,2512.24386v1,RedunCut: Measurement-Driven Sampling and Accuracy Performance Modeling for Low-Cost Live Video Analytics,cv_vision,1.0,2512.24386v1,1.0
+Semantic,2510.09167v2,Hierarchical Semantic RL: Tackling the Problem of Dynamic Action Space for RL-based Recommendations,ir_retrieval,1.0,2510.09167v2,1.0
+Semantic,2509.01551v1,Cloud-Device Collaborative Agents for Sequential Recommendation,ir_retrieval,1.0,2509.01551v1,1.0
+Semantic,2510.07621v1,Retentive Relevance: Capturing Long-Term User Value in Recommendation Systems,ir_retrieval,1.0,2510.07621v1,1.0
+Semantic,2511.03330v1,Discourse-Aware Scientific Paper Recommendation via QA-Style Summarization and Multi-Level Contrastive Learning,ir_retrieval,1.0,2511.03330v1,0.6
+Semantic,2511.05885v3,An item is worth one token in Multimodal Large Language Models-based Sequential Recommendation,ir_retrieval,3.0,2512.20916v1,1.0
+Semantic,2512.04416v2,DataGovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows,ai_general,1.0,2512.04416v2,0.6
+Semantic,2601.00828v1,Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis,ai_general,1.0,2601.00828v1,0.3
+Semantic,2601.00138v2,Explicit Abstention Knobs for Predictable Reliability in Video Question Answering,ai_general,1.0,2601.00138v2,0.0
+Semantic,2510.22667v1,Block Coordinate Descent for Neural Networks Provably Finds Global Minima,stat_ml,1.0,2510.22667v1,0.8
+Semantic,2512.15038v2,LADY: Linear Attention for Autonomous Driving Efficiency without Transformers,ai_general,1.0,2512.15038v2,0.0
+Semantic,2511.21915v1,"Algorithms and Scientific Software for Quasi-Monte Carlo, Fast Gaussian Process Regression, and Scientific Machine Learning",stat_ml,1.0,2511.21915v1,0.9
+Semantic,2512.21170v1,A Unified Framework for EEG Seizure Detection Using Universum-Integrated Generalized Eigenvalues Proximal Support Vector Machine,lg_ml,1.0,2512.21170v1,0.4
+Semantic,2512.22471v5,The Bayesian Geometry of Transformer Attention,lg_ml,4.0,2512.22212v1,0.3
+Semantic,2509.03696v1,LLMs for estimating positional bias in logged interaction data,ir_retrieval,1.0,2509.03696v1,0.1
+Semantic,2512.21685v1,RIPCN: A Road Impedance Principal Component Network for Probabilistic Traffic Flow Forecasting,lg_ml,1.0,2512.21685v1,0.7
+Semantic,2512.22802v1,ReDiF: Reinforced Distillation for Few Step Diffusion,lg_ml,1.0,2512.22802v1,0.3
+Semantic,2512.12856v1,Forgetful but Faithful: A Cognitive Memory Architecture and Benchmark for Privacy-Aware Generative Agents,ai_general,1.0,2512.12856v1,0.3
+Semantic,2509.04751v1,Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms,ir_retrieval,1.0,2509.04751v1,0.9
+Semantic,2512.07090v1,Leveraging KV Similarity for Online Structured Pruning in LLMs,cl_nlp,1.0,2512.07090v1,0.4
+Semantic,2509.02227v1,Application Of Large Language Models For The Extraction Of Information From Particle Accelerator Technical Documentation,ir_retrieval,1.0,2509.02227v1,0.5
+Semantic,2512.13607v2,Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models,cl_nlp,1.0,2512.13607v2,0.5
+Semantic,2512.19012v2,DramaBench: A Six-Dimensional Evaluation Framework for Drama Script Continuation,cl_nlp,1.0,2512.19012v2,0.4
+Semantic,2509.04694v1,Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems,ir_retrieval,1.0,2509.04694v1,1.0
+Semantic,2509.25494v1,On-Premise AI for the Newsroom: Evaluating Small Language Models for Investigative Document Search,ir_retrieval,1.0,2509.25494v1,0.8
+Semantic,2512.16650v1,Prefix Probing: Lightweight Harmful Content Detection for Large Language Models,ai_general,1.0,2512.16650v1,0.0
+Semantic,2510.13371v1,MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation,ir_retrieval,1.0,2510.13371v1,0.9
+Semantic,2510.19020v2,Calibrated Principal Component Regression,stat_ml,1.0,2510.19020v2,0.9
+Semantic,2512.22601v1,"Tyee: A Unified, Modular, and Fully-Integrated Configurable Toolkit for Intelligent Physiological Health Care",ai_general,1.0,2512.22601v1,0.4
+Semantic,2512.16183v2,A Domain-Adapted Pipeline for Structured Information Extraction from Police Incident Announcements on Social Media,cl_nlp,1.0,2512.16183v2,0.8
+Semantic,2512.22234v2,DiRL: An Efficient Post-Training Framework for Diffusion Language Models,lg_ml,5.0,2512.22630v1,0.1
+Semantic,2512.22218v1,"Towards Signboard-Oriented Visual Question Answering: ViSignVQA Dataset, Method and Benchmark",cv_vision,1.0,2512.22218v1,0.5
+Semantic,2512.21459v1,CCAD: Compressed Global Feature Conditioned Anomaly Detection,cv_vision,1.0,2512.21459v1,0.5
+Semantic,2512.11421v1,Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance,ai_general,1.0,2512.11421v1,0.5
+Semantic,2512.00979v1,An Approach to Variable Clustering: K-means in Transposed Data and its Relationship with Principal Component Analysis,stat_ml,1.0,2512.00979v1,1.0
+Semantic,2601.04200v1,Attribute-Aware Controlled Product Generation with LLMs for E-commerce,cl_nlp,1.0,2601.04200v1,0.1
+Semantic,2512.12742v2,A Novel Framework Using Variational Inference with Normalizing Flows to Train Transport Reversible Jump Proposals,stat_ml,1.0,2512.12742v2,0.9
+Semantic,2512.13979v1,ReflCtrl: Controlling LLM Reflection via Representation Engineering,ai_general,1.0,2512.13979v1,0.5
+Semantic,2512.20745v3,AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent,ai_general,1.0,2512.20745v3,0.6
+Semantic,2512.21915v1,Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs,lg_ml,1.0,2512.21915v1,0.1
+Semantic,2512.19019v1,Optimizer Dynamics at the Edge of Stability with Differential Privacy,lg_ml,1.0,2512.19019v1,0.2
+Semantic,2512.05162v1,How to Tame Your LLM: Semantic Collapse in Continuous Systems,stat_ml,1.0,2512.05162v1,0.1
+Semantic,2512.05365v1,MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare,ai_general,1.0,2512.05365v1,0.9
+Semantic,2512.18755v1,MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking,ai_general,1.0,2512.18755v1,0.3
+Semantic,2512.14576v1,"Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies",cl_nlp,1.0,2512.14576v1,1.0
+Semantic,2601.00905v1,Evaluating Contextual Intelligence in Recyclability: A Comprehensive Study of Image-Based Reasoning Systems,cv_vision,1.0,2601.00905v1,0.5
+Semantic,2512.23232v1,SURE Guided Posterior Sampling: Trajectory Correction for Diffusion-Based Inverse Problems,cv_vision,1.0,2512.23232v1,0.2
+Semantic,2512.15335v1,Bits for Privacy: Evaluating Post-Training Quantization via Membership Inference,lg_ml,1.0,2512.15335v1,0.3
+Semantic,2601.04212v1,TrueBrief: Faithful Summarization through Small Language Models,cl_nlp,6.0,2512.24410v1,0.9
+Semantic,2601.09723v1,"SagaScale: A Realistic, Scalable, and High-Quality Long-Context Benchmark Built from Full-Length Novels",cl_nlp,1.0,2601.09723v1,0.8
+Semantic,2509.22467v2,CausalKANs: interpretable treatment effect estimation with Kolmogorov-Arnold networks,stat_ml,1.0,2509.22467v2,1.0
+Semantic,2512.19543v1,Algerian Dialect,cl_nlp,1.0,2512.19543v1,0.9
+Semantic,2512.11469v2,"Three methods, one problem: Classical and AI approaches to no-three-in-line",ai_general,7.0,2512.04469v1,1.0
+Semantic,2512.16718v1,"Polyharmonic Spline Packages: Composition, Efficient Procedures for Computation and Differentiation",lg_ml,1.0,2512.16718v1,0.7
+Semantic,2512.15120v1,Automatic Reward Shaping from Multi-Objective Human Heuristics,lg_ml,1.0,2512.15120v1,0.3
+Semantic,2512.13070v1,M-GRPO: Stabilizing Self-Supervised Reinforcement Learning for Large Language Models with Momentum-Anchored Policy Optimization,ai_general,1.0,2512.13070v1,0.1
+Semantic,2512.23043v1,Mechanistic Analysis of Circuit Preservation in Federated Learning,lg_ml,1.0,2512.23043v1,0.6
+Semantic,2510.03929v2,Self-Speculative Masked Diffusions,stat_ml,1.0,2510.03929v2,0.6
+Semantic,2512.17227v1,Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning,cv_vision,1.0,2512.17227v1,0.5
+Semantic,2512.20562v2,Shallow Neural Networks Learn Low-Degree Spherical Polynomials with Feature Learning by Learnable Channel Attention,stat_ml,1.0,2512.20562v2,0.4
+Semantic,2512.23808v1,MiMo-Audio: Audio Language Models are Few-Shot Learners,cl_nlp,1.0,2512.23808v1,0.6
+Semantic,2512.15906v2,Darth Vecdor: An Open-Source System for Generating Knowledge Graphs Through Large Language Model Queries,ai_general,1.0,2512.15906v2,0.1
+Semantic,2511.10919v1,Heterogeneous Multisource Transfer Learning via Model Averaging for Positive-Unlabeled Data,stat_ml,1.0,2511.10919v1,0.5
+Semantic,2509.03692v1,lifeXplore at the Lifelog Search Challenge 2021,ir_retrieval,1.0,2509.03692v1,0.5
+Semantic,2511.22247v1,FIGROTD: A Friendly-to-Handle Dataset for Image Guided Retrieval with Optional Text,ir_retrieval,1.0,2511.22247v1,0.6
+Semantic,2512.22744v1,Bridging Global Intent with Local Details: A Hierarchical Representation Approach for Semantic Validation in Text-to-SQL,lg_ml,1.0,2512.22744v1,0.0
+Semantic,2512.14277v1,SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions,ir_retrieval,1.0,2512.14277v1,0.9

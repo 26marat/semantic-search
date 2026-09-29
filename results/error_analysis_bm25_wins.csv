@@ -1,0 +1,6 @@
+query_id,query_title,label,bm25_rank,bm25_top1_id,semantic_rank,semantic_top1_id,bm25_rank_filled,semantic_rank_filled,gap,direction
+2512.20666v1,Dominating vs. Dominated: Generative Collapse in Diffusion Models,lg_ml,1.0,2512.20666v1,,2509.20101v1,1.0,21.0,20.0,bm25_wins
+2512.05156v2,Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations,ai_general,1.0,2512.05156v2,,2512.18813v1,1.0,21.0,20.0,bm25_wins
+2512.06404v1,GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols,ai_general,1.0,2512.06404v1,,2512.20996v1,1.0,21.0,20.0,bm25_wins
+2512.19728v2,Hard Negative Sample-Augmented DPO Post-Training for Small Language Models,lg_ml,3.0,2511.08029v2,,2512.14549v3,3.0,21.0,18.0,bm25_wins
+2512.17303v1,EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance,cv_vision,1.0,2512.17303v1,19.0,2512.05251v2,1.0,19.0,18.0,bm25_wins

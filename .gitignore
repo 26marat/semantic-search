@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Cached embeddings / FAISS indices / BM25 pickles (regenerable, large binaries)
+cache/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Hugging Face datasets cache (if pointed locally instead of ~/.cache)
+.hf_cache/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
